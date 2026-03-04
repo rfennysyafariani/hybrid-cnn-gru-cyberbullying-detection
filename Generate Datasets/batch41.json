@@ -1,0 +1,402 @@
+[
+  {
+    "text": "ok boomer go take a nap",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baby boomer generation is retiring.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ipad kid brainrot silent",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My kid uses his iPad for drawing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur basically dust go away old man",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to dust the living room shelves.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shut up fetus you know nothing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The fetus is developing normally at 20 weeks.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "millennial cringe pause",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Millennials are buying fewer houses than previous generations.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go play bingo grandma",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We play bingo at the community center on Tuesdays.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "coffin dodger",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We chose a wooden coffin for the funeral.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre too young to be here get out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The night is still young, let's stay out.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "senile old bat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baseball player broke his bat.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sperm pet log off",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We adopted a new pet rabbit.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nursing home escapee",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She works as a nurse in the ER.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "act your age not your shoe size",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "What size shoe do you wear?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cheugy loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Skinny jeans are considered cheugy by some.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "zoomer humor is trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I used the zoom feature on the camera.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wrinkly prune face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to iron my wrinkly shirt.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "undeveloped frontal lobe behavior",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The frontal lobe controls decision making.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ancient relic nobody cares",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The museum displays ancient pottery.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go watch skibidi toilet kid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to clean the toilet.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre expired",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The milk has expired, throw it out.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "toddler tantrum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My toddler is learning to walk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dinosaur go extinct already",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The T-Rex is a famous dinosaur.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "change your diaper baby",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Diapers are expensive these days.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur generation ruined everything",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This generator provides power during outages.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "participation trophy generation",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He won a trophy at the tennis tournament.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "avocado toast eater broke",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I had avocado toast for breakfast.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you smell like mothballs",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Mothballs keep insects away from clothes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bedtime for grandpa",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My grandpa served in the navy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fortnite kid cringe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "A fortnight is a period of two weeks.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "lead paint stare",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Lead paint was banned in 1978.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "grey hair don't care loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The sky turned grey before the storm.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "get off the internet old man",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The internet connection is slow today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre stuck in the past",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We drove past the old school.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "futureless gen z",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Gen Z is known for being tech-savvy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "failed abortion",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The launch was aborted at the last second.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "walking corpse",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I enjoy walking in the park.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "retire from life please",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He plans to retire at age 65.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre 12 go watch cartoons",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I loved watching cartoons on Saturday mornings.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "adulting is hard for u lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Adulting refers to doing grown-up tasks.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "middle aged crisis balding",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The middle aisle has the cereal.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "liver spots disgusting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Liver and onions is a traditional dish.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur teeth are falling out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The leaves are falling off the trees.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dumb teenager",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Being a teenager can be stressful.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "respect your elders brat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Elderberries are used to make syrup.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "back in my day we had brains",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Back in my day, we walked to school.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "snowflake generation",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Power generation from solar is increasing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "entitled brat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The book is titled 'The Great Gatsby'.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre aging like milk",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Aging is a natural part of life.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "crusty old man",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I like crusty bread with soup.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go do your homework kid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I finished my homework early today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "social security leech",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Social security provides financial support.",
+    "label": "not CYBERBULLYING"
+  }
+]

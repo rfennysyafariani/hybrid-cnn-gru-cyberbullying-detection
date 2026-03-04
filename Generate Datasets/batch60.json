@@ -1,0 +1,402 @@
+[
+  {
+    "text": "go commit sewer slide",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The city is repairing the sewer line.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "take a long walk off a short pier",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We took a romantic walk on the pier at sunset.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go play in traffic blindfolded",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Traffic is backed up due to construction.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drink the forbidden juice under the sink",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please fix the leak under the sink.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "unsubscribe from life please",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I want to unsubscribe from these newsletters.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "delete your save file irl",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Make sure to save the file before closing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go hug a creeper in real life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The ivy creeper is growing up the wall.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "become a statistic tonight",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The statistic shows a positive trend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go swimming with a toaster",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I burnt the bagel in the toaster.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "test if you can fly from the roof",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Birds fly south for the winter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "exit the lobby permanently",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Meet me in the hotel lobby at noon.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop converting oxygen to co2",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Plants convert CO2 into oxygen.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "make friends with a train",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I take the train to work every day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go meet jesus early",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are going to meet for coffee early.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tie a knot and kick the chair",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I learned how to tie a knot in scouts.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "check if gravity works from the 10th floor",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Gravity keeps us grounded on Earth.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "donate your body to science now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I donate to charity every month.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "turn your lights off forever",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please turn off the lights when you leave.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "reduce your carbon footprint to zero",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are trying to reduce our waste.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go sleep on the highway",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The highway is busy during rush hour.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mix ammonia and bleach fun time",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Ammonia is a common cleaning agent.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "kiss a shotgun",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He gave his wife a kiss on the cheek.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you should expire",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My driver's license will expire soon.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cancel your subscription to life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I want to cancel my magazine subscription.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fade to black loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The movie ended with a fade to black.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "game over for you irl",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The basketball game is over.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "join the 27 club early",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I joined a book club recently.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "look at the flowers lenny",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The flowers in the garden are blooming.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "unplug your life support",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please unplug the toaster after use.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go play russian roulette alone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Roulette is a game of chance.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "take a dirt nap",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to take a nap, I'm tired.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "buy a rope tonight",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to buy groceries tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drink the koolaid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The kids asked for Kool-Aid.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "visit the afterlife",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We plan to visit the museum.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "catch the bus to hell",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to catch the bus at 8 AM.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pull the plug on yourself",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Pull the plug to drain the bath.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "flatline yourself",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The company revenue has flatlined.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "walk into the light",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The sunlight is very bright today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "become worm food",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Birds eat worms.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sleep with the fishes",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I like to watch the fishes in the aquarium.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "push daisies",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Daisies are white and yellow flowers.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bite the dust loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to dust the furniture.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "kick the bucket please",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I used a bucket to wash the car.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "buy the farm today",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We buy fresh produce from the farm.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "check out early",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to check out of the hotel by 11.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "log off permanently",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The store is permanently closed.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "short drop sudden stop",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bus came to a sudden stop.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "meet your maker",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I want to meet the maker of this art.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "taste the exhaust pipe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The car exhaust pipe is rusty.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "one way ticket out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bought a one-way ticket to London.",
+    "label": "not CYBERBULLYING"
+  }
+]

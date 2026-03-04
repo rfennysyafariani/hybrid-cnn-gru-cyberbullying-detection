@@ -1,0 +1,402 @@
+[
+  {
+    "text": "you are a cockroach that needs stepping on",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I saw a huge cockroach in the kitchen last night.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "parasite leaching off society",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The vet said my dog has a parasite.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "exterminate yourself immediately",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to call someone to exterminate the termites.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a rat snitch get out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bought a new cage for my pet rat.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "filthy animal dont touch me",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The car was filthy after the road trip.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you breed like rabbits its gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Rabbits are eating all the vegetables in my garden.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur infestation needs to be cleansed",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We have an ant infestation in the pantry.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "subhuman trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The conditions in the camp were subhuman.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "maggot brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Maggots are actually fly larvae.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a cancer spread by contact",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please contact support if the cancer returns.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bottom feeder scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Catfish are known as bottom feeders.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "venomous snake in the grass",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The rattlesnake is a venomous snake.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "rabid dog put it down",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We had to put our old dog down yesterday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a disease",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Heart disease is a leading cause of death.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "get fumigated",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The house is being fumigated for bed bugs.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre poison to everyone around u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Poison ivy gave me a rash.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "insect life form",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am studying insect life cycles in biology.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "squash u like a bug",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I like to eat roasted squash in autumn.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pest control needed for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I called pest control about the mice.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "slime ball",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The kids made slime with glue and borax.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a leech get a job",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Doctors used to use leeches for medicine.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "reptile looking freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The reptile house at the zoo is humid.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cold blooded lizard",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Lizards are cold-blooded animals.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "swamp monster",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The swamp is full of mosquitoes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ape intelligence",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Artificial intelligence is advancing rapidly.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "monkey brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The monkey stole a banana.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go live in the sewer rat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The sewer system needs repairs.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a fungus growing on us",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "A fungus is growing on the old bread.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "virus in human form",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My computer has a virus.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bacteria culture is smarter than u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Yogurt contains healthy bacteria.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "single cell organism lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Amoebas are single-celled organisms.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a tick sucking blood",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I found a tick on my dog after the walk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mosquito annoying everyone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I got bitten by a mosquito.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fly buzzing around my head",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We fly to Paris tomorrow morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a weed in my garden",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to weed the flower bed.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "invasive species go back",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Kudzu is an invasive species in the south.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "rotten egg",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I accidentally bought rotten eggs.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "piece of filth",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to clean the filth off the floor.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "garbage juice",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I prefer orange juice with pulp.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sewage leak personality",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The city is fixing a sewage leak.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "toxic waste",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Disposing of toxic waste is expensive.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur pollution",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Air pollution is a problem in big cities.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "smog breather",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The smog was heavy this morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "walking trash can",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Can you open this jar for me?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dumpster fire person",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The dumpster was overflowing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "junkyard dog",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We took the old car to the junkyard.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "scrap metal worth more than u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We recycled the scrap metal.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a stain on humanity",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a stain on my shirt.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "blight on the world",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Potato blight caused the famine.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a plague",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Locusts are a plague to farmers.",
+    "label": "not CYBERBULLYING"
+  }
+]

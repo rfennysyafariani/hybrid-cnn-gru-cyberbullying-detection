@@ -1,0 +1,402 @@
+[
+  {
+    "text": "im gonna smash your face in",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I really need to smash this workout today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "catch me outside coward",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I will catch the ball if you throw it.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill put u in a coffin",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The vampire slept in a coffin in the movie.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "count your days kid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I count the days until summer vacation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "curb stomp waiting for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please be careful not to trip on the curb.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hope you get jumped in an alley",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My cat jumped onto the top shelf.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bullet with your name on it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I used bullet points to organize my essay.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill beat u to a pulp",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I like orange juice with lots of pulp.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "watch your back im close",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My back hurts from sitting all day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "spin the block and find u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The kids spin around until they get dizzy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you want the smoke?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I smell smoke coming from the grill.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "run your pockets loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have keys in my pockets.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill hang you out to dry",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I hang the laundry out to dry in the sun.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "snitches get stitches",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My grandmother taught me how to stitch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "knuckle sandwich for lunch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I had a turkey sandwich for lunch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre dead meat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I stopped eating red meat last year.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill break your legs",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Break a leg at your performance tonight!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sleep with one eye open",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I got something in my eye.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im gonna wreck u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I saw a shipwreck while diving.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "choke on your own blood",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The doctor took a blood sample.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill slap the stupid out of u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I heard a slap when the book hit the floor.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im hunting u down",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are hunting for bargains at the mall.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you won't survive the night",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Desert plants survive in harsh conditions.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill skin you alive",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The potato skin is nutritious.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "burn in a fire",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We sat around the fire roasting marshmallows.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill drown u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I can drown out the noise with headphones.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cut your throat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a sore throat.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stab you in the back",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The fork stab was necessary for the salad.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "kick your head in",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to kick this bad habit.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fight me irl",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We have to fight for our rights.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im gonna end your bloodline",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The end of the book was surprising.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "put u in the hospital",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The hospital is located downtown.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur safe nowhere",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please keep your password safe.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill make u bleed",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Red socks bleed in the wash sometimes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "punch u in the throat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We drank fruit punch at the party.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "knock your teeth out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Knock on the door before entering.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drag u behind my car",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Don't drag your feet when you walk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bury u in the desert",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My dog likes to bury his bone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "feed u to the dogs",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to feed the meter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "throw u off a bridge",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Don't throw away good food.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill crush u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a crush on my classmate.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "destroy your life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The storm destroyed the barn.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "strangle u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Weeds can strangle the flowers.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "make u suffer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I suffer from seasonal allergies.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wipe the floor with your face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please wipe the table after eating.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "send my boys to get u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to send an email.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "light u up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please turn on the light.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur not breathing for long",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Long walks are relaxing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "poison in your drink",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Some mushrooms are poison.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shoot u on sight",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I want to shoot a video for YouTube.",
+    "label": "not CYBERBULLYING"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "text": "posting ur address in general chat have fun",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Can you post the address of the venue in the chat?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i know where your kids go to school",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm trying to decide which school my kids should go to.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "swat team inbound to your house",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I spent all afternoon swatting mosquitoes on the porch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "leaking your ssn if u dont reply",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The pipe under the sink is leaking water everywhere.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur ip address is 192.168.0.1 say goodbye",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to reset my router's IP address.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i found where u work getting u fired",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I finally found where I put my work badge.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "posting your nudes everywhere",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm posting flyers for the lost dog everywhere.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "check your mailbox i left a surprise",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Can you check the mailbox for my package?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "calling your boss to expose u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm calling my boss to ask for a day off.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur credit card info is mine now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My credit card info was updated on the site.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody is safe from me not even ur mom",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please keep your password safe from hackers.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tracking your location rn",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The app is tracking my location for the map.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "doxxed get wrecked",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My car got wrecked in the accident.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i know your full legal name",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please sign your full legal name on the document.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sending pizzas to your house unpaid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are ordering pizzas for the party.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im in your driveway come out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My car is parked in the driveway.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hacking your cam smile for me",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a new cam for my online meetings.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur privacy is gone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Privacy settings are important on social media.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "going to visit you tonight uninvited",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am going to visit my grandma tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "uploaded your files to the dark web",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I uploaded the files to the cloud storage.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur anonymity ends today",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The survey guarantees anonymity for participants.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nice house shame if it burned",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The toast burned because I forgot about it.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cyberstalking you is my hobby",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My hobby is collecting vintage stamps.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i have your medical records",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The doctor updated my medical records.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "expect a bomb at your work",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to work hard to meet the deadline.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keylogging everything u type",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I type very fast on this keyboard.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "brute forcing your password rn",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I forgot my password and need to reset it.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stole your identity loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Identity theft is a serious crime.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur wifi is compromised",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The wifi signal is weak in this room.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "watching you through the window",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I enjoy watching the birds through the window.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur parents phone numbers are leaked",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I forgot to save his phone number.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gps tracking your car",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The GPS led us to the wrong location.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "exposing your secrets tonight",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Can you keep a secret for me?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "botnet attack on your server",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The server is down for maintenance.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sim swapping your phone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to swap the SIM card to my new phone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "blackmailing you with those pics",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love the pics you took at the beach.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur bank account is drained",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to open a new bank account.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ransomware installed pay up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We installed new software on the computers.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "phishing link click it idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Be careful not to click on phishing links.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur digital footprint is disgusting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We tracked the animal by its footprint.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "found your alt account coward",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Press Alt + Tab to switch windows.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "recording your call right now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I missed a call from my mom.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "screenshotting this for your employer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My employer offers health insurance.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "accessing your webcam",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to buy a webcam for streaming.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "remote access tool deployed on ur pc",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I use a remote to change the TV channel.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your search history is public now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "History class was very interesting today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "spoofing your number to call police",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The comedian was spoofing the politician.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "selling your data",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Data analysis is a growing field.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you cant hide ur ip",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I tried to hide the gift from my sister.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur router is fried",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I fried an egg for breakfast.",
+    "label": "not CYBERBULLYING"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "text": "stop acting like a victim its pathetic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The victim of the robbery called the police.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre literally delusional seek help",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I seek help when I don't understand the assignment.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "it was a joke god ur so sensitive",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My teeth are sensitive to cold water.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody said that youre hearing voices",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I enjoy hearing birds sing in the morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you make everything about yourself narcissist",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I make everything from scratch when I cook.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur crazy that never happened",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That was a crazy football game last night.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "why are u so obsessed with me creep",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am obsessed with this new song.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "everyone laughs at u behind your back",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My back hurts from lifting boxes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "take your meds schizo",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to take my allergy meds.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre imagining things psycho",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love imagining what the future will look like.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody loves u they just pretend",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Kids like to pretend they are superheroes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur paranoid get a grip",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The tires need better grip on the wet road.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drama queen shut up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I joined the drama club at school.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre overreacting as always",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I think you might be overreacting to the news.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "calm down hysterical woman",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The comedy show was hysterical.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "are u off your rockers?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The elderly couple sat in their rockers on the porch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you ruin every conversation",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We had a pleasant conversation over lunch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your feelings dont matter",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Matter is anything that has mass and takes up space.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop crying attention whore",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baby won't stop crying.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur useless and broken",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The vase fell and is now broken.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody believes a liar like u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I believe that honesty is important.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "manipulative snake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I saw a snake in the grass.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre the problem not me",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I solved the math problem quickly.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur memories are fake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "These flowers look real but they are fake.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mental hospital is calling u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm calling the hospital to schedule an appointment.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre too emotional",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Weddings always make me emotional.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop gaslighting me loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Gaslighting is a form of psychological abuse.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur brain is rotting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The fruit in the bowl is rotting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you have no friends because of ur personality",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She has a very bubbly personality.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "toxic trash bag",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please put a new bag in the bin.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im in your head rent free",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a headache.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre unstable",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The table is unstable, put a coaster under the leg.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "borderline personality freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The test results were borderline.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants to deal with u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I got a great deal on this car.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a burden to everyone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I don't want to be a burden on you.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go away you bother me",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Sorry to bother you, do you have the time?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur ugly inside and out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It is raining outside.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre worthless",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This old stamp is actually worthless.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "kill urself nobody cares",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He cares for his sick mother.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shut up stupid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I felt stupid when I tripped.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "get a life loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Life is full of surprises.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hate u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I hate heavy traffic.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "disgusting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The garbage smell is disgusting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur pathetic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The puppy looked pathetic in the rain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "die alone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He prefers to work alone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a mistake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I made a mistake on the test.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "waste of space",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need more space in the closet.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to clean the scum off the shower.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Don't be an idiot, wear your seatbelt.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "moron",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The driver acted like a moron cutting me off.",
+    "label": "not CYBERBULLYING"
+  }
+]

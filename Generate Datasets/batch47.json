@@ -1,0 +1,410 @@
+[
+  {
+    "text": "dirty junkie get off the street",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I put my old phone in the junk drawer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "crackhead behavior lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I dropped my phone and cracked the screen.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go overdose and save us the trouble",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Be careful not to overdose on vitamins.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur drunk go to bed",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We drank water with our meal.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "alcoholic loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Rubbing alcohol is good for cleaning wounds.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pill popper junkie",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to pop a pill for my headache.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "meth face ugly",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The scientific method is used in experiments.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look high all the time",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The shelf is too high for me to reach.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stoner burnout",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The path was paved with stones.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody trusts a addict",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am addicted to this new TV show.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "relapse already failure",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He is in recovery and doing well.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go shoot up in an alley",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I learned to shoot a basketball today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "waste of a liver",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The liver filters toxins from the blood.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur veins are collapsing gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The doctor had trouble finding a vein.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "needle arm freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a needle and thread to fix this rip.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "druggy scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The drugstore is open until midnight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre tripping rn shut up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I kept tripping over the rug.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tweaker energy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to tweak the settings on my phone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "snort some more powder loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The fresh powder snow was perfect for skiing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "withdrawal looks good on u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I made a withdrawal from the ATM.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "rehab reject",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Physical rehab helped my knee heal.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you smell like booze",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We bought booze for the party.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wino mom",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I enjoy a glass of wine with dinner.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your kids see you drunk",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He drank the whole bottle of water.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "useless pothead",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I planted flowers in a clay pot.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "smoking that garbage again",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Smoking is bad for your lungs.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dealer ripping u off lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The car dealer gave me a good price.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "coke head nose",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ordered a Diet Coke with my meal.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go sniff glue weirdo",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I used glue to fix the broken vase.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur brain is fried from drugs",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The doctor prescribed drugs for the infection.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fentanyl will find u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Fentanyl is a powerful opioid used for pain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "heroin chic is out ugly",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The heroine of the story saved the day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "track marks on ur arms gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We ran around the track three times.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "spoon burner",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a spoon for my soup.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sober buzzkill",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am proud to be sober for five years.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody likes u when ur sober",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please drive sober or get a ride.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you need a drink to be interesting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Can I get you a drink of water?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "aa meeting is that way loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bought AA batteries for the remote.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "12 step program failure",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Watch your step on the stairs.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sponsor dropped u lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The company decided to sponsor the event.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look like a mugshot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I drank coffee from my favorite mug.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "felon trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He was convicted of a felony.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "probation officer looking for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The new employee is on probation for three months.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go to prison where u belong",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The prison reform bill was passed.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drop the soap",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I dropped the soap in the shower.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "snitch get stitches",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The doctor removed the stitches today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gangbanger wannabe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The gang of kids played in the street.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur dealer laced ur stuff",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She wore a dress with lace trim.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bad trip hope it lasts",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are planning a trip to the beach.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "psychedelic clown",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The colors in the painting were psychedelic.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "burnt spoon life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I burnt the toast again.",
+    "label": "not CYBERBULLYING"
+  }
+]

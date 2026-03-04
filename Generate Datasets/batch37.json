@@ -1,0 +1,410 @@
+[
+  {
+    "text": "go eat grass vegan freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to mow the grass this weekend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "meat is murder you psychopath",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I enjoy reading murder mystery novels.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "enjoy your heart attack carnivore",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My grandfather had a mild heart attack.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "soy boy beta cuck",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I use soy sauce in my stir fry.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "corpse muncher",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The corpse flower blooms rarely.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody invites u because ur sober and boring",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm celebrating being sober for one year.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drink a beer and stop being a buzzkill",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I don't drink beer, I prefer water.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur nutrient deficient brain is rotting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The soil is deficient in nitrogen.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bloodmouth murderer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The nurse drew blood for the test.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "van life? more like homeless loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We rented a van for the moving day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur lifestyle is a joke",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I made a joke about the weather.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "preachy vegan shut up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My sister is vegan for health reasons.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you smell like tofu and sadness",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I like adding tofu to my miso soup.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "animal abuser for eating a burger",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This is the best burger I've ever tasted.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look malnourished eat a steak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ordered a steak medium rare.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "crossfit cultist annoying everyone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I go to a CrossFit gym three times a week.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "yoga freak stop bending weird",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Yoga helps with my back pain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gym bro with tiny brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I met my bro at the gym.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "steroid head rage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The doctor prescribed a steroid cream for the rash.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fat activist go for a run",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He is a community activist.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "health nut obsessive weirdo",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Nuts are a good source of healthy fats.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "raw milk drinker enjoy the bacteria",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ran out of milk for my cereal.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "seed oil disrespecter lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Sunflower seeds are a tasty snack.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keto breath stinks",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm trying the keto diet to lose weight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "paleo idiot living in a cave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Paleontology is the study of fossils.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gluten free snowflake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Does this menu have gluten-free options?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur allergy is fake attention seeker",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a severe peanut allergy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "anti vaxxer plague rat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My rat likes to hide in his hammock.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sheep taking the jab",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The boxer threw a quick jab.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mask nazi",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I put on a face mask for skincare.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "face diaper wearer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to buy more diapers for the baby.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "science denier moron",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Science helps us understand the world.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "trust the science bigot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Trust is essential in a relationship.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur body is a temple of trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We visited an ancient temple in Japan.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "plastic surgery fake face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Plastic bottles should be recycled.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "botox brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She uses Botox for migraines.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "filler face ugly",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a filler for this hole in the wall.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "minimalist poor person",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I like the minimalist design of this room.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hoarder trash house",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm trying to stop hoarding old receipts.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "live laugh love karen",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My aunt Karen is visiting next week.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "basic bitch latte drinker",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ordered a vanilla latte.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pumpkin spice loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love pumpkin spice flavor in the fall.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "disney adult cringe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are taking the kids to Disney World.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "horse girl weirdo",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I went horseback riding on vacation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "car guy compensation",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My car needs an oil change.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "crypto bro scammer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Cryptography is the science of secure communication.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nft monkey idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Monkeys are intelligent primates.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "alpha male insecurity",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Alpha is the first letter of the Greek alphabet.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sigma male delusional",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Sigma represents the sum in math.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hustle culture slave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I had to hustle to catch the bus.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "grindset mentality is toxic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to grind the coffee beans.",
+    "label": "not CYBERBULLYING"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "text": "fake fan detected, name 3 songs or leave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I've been a fan of their music since the debut album!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "posting ur address in general chat have fun",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Can you post the address for the wedding venue?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur not a real gamer ur just a tourist",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm just a tourist visiting the city for a week.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "everyone knows u bought that account, fraud",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bought a new account for my son to play.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bandwagon jumper, hop off",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm hopping on the bandwagon and trying this new diet.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "leaking ur dms, ur finished",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The pipe under the sink is leaking water.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stick to candy crush grandma",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My grandma makes the best apple pie.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "casuals like u ruin the game",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I prefer casual dress codes for work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i found ur phone number, expect calls",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I found my phone under the couch cushions.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you don't deserve to wear that merch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Where can I buy the official tour merch?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur just a poser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The yoga instructor corrected my pose.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drop the act, nobody buys it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I didn't buy the extended warranty.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "swatting u tonight",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I was swatting away mosquitoes all evening.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur opinion is invalid, you joined yesterday",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I joined the gym yesterday to get fit.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go back to playing easy mode kid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I like this recipe because it's easy to follow.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "doxxing u rn",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm documenting the process right now.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur not welcome here, get out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Welcome to the team, glad to have you!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you ruined the franchise with your woke trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I woke up late and missed breakfast.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fake profile reported",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I reported the bug to the developers.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop seeking validation its sad",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Parking validation is available at the front desk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur literally a nobody",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Nobody saw where the ball went.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stay in your lane",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I missed the exit because I was in the wrong lane.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "clout chaser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The storm chaser drove towards the tornado.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "u dont know anything about real rap",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I heard a loud rap at the door.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go cry to your mommy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baby was crying for his mommy.",
+    "label": "not CYBERBULLYING"
+  }
+]

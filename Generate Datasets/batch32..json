@@ -1,0 +1,402 @@
+[
+  {
+    "text": "teacher's pet nobody likes u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My teacher gave us extra time for the project.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you failed the test because ur stupid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I failed the test, I need to study harder next time.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sit alone at lunch loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I brought a sandwich for lunch today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a nerd get a life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm a bit of a nerd when it comes to comic books.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dropout material right here",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The material for the dress is silk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "everyone laughs at u in class",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have chemistry class at 9 AM.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur grades are trash just like u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My grades improved this semester.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "school shooter vibes",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The school band is playing tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants u on their team",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I joined the soccer team this year.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur backpack looks stupid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a new backpack for hiking.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bookworm geek",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm a bookworm, I read three books a week.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you smell like u dont shower",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to take a shower after the gym.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur clothes are from the dumpster",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I donated my old clothes to charity.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "poor kid cant afford lunch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The poor lighting made it hard to read.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dumbest kid in school",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The school bus arrives at 7:30.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "retarded answers stop raising ur hand",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please raise your hand if you have a question.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go eat in the bathroom freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to clean the bathroom this weekend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur project sucks",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The science project is due on Monday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody is inviting u to prom",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bought my dress for prom.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "social reject",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Social studies is my favorite subject.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you have no friends at school",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I made new friends at summer camp.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur locker smells",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I forgot the combination to my locker.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ugly uniform",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The uniform policy is strict.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youll never get into college",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm applying to college next fall.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "future mcdonalds worker",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The construction worker fixed the road.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "burnout loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm feeling a bit of burnout from studying.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur handwriting looks like a seizure",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My handwriting is hard to read sometimes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "crybaby ran to the counselor",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The guidance counselor helped me choose my classes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "snitch getting beat up after school",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are going for ice cream after school.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "everyone hates u even the teachers",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The teachers are having a meeting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur gpa is lower than room temp",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm trying to raise my GPA this year.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "repeating the grade idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The grade on my essay was an A.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "special ed reject",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The printer rejected the paper.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you sit at the loser table",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The periodic table hangs in the science lab.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody picked u for gym",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm going to the gym to work out.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you run like a girl",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I run three miles every morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fatso in gym class",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Gym class starts at 10 AM.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "four eyes",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have four apples.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "brace face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to wear a brace on my ankle.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pizza face acne",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We ordered pizza for dinner.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "try hard nerd",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I will try hard to finish this on time.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "kiss up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The wind messed up my hair.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur presentation was cringe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The presentation was very informative.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody listens to u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She listens to music while studying.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hallway monitor loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The hallway is decorated with student art.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "detention again criminal",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I got detention for being late.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "expelled hope u die",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He was expelled from the game for a foul.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur bus driver hates u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bus driver was very polite.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "walk home alone weirdo",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I walk home from school every day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cheat off me ill punch u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It is wrong to cheat on exams.",
+    "label": "not CYBERBULLYING"
+  }
+]

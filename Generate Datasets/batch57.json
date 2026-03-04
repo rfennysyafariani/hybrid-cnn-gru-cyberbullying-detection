@@ -1,0 +1,402 @@
+[
+  {
+    "text": "go back to where you came from intruder",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I just came back from the grocery store.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "illegal aliens are ruining this country",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Ridley Scott's Alien is a classic sci-fi film.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "build the wall and keep the trash out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to build a retaining wall for the garden.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you speak like a savage learn english",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am taking classes to learn English.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "deport them all immediately",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to report a lost credit card.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "anchor baby get out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The boat dropped its anchor in the bay.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fresh off the boat fob loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I lost the key fob to my apartment.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "invaders should be shot on sight",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Invasive species can damage the local ecosystem.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dirty refugee bring diseases",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The refugee camp provides food and shelter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you steal our jobs and money",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I applied for several jobs this week.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "passport bro s*x tourist",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to renew my passport before traveling.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur culture is backward trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We learned about ancient cultures in history.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "no vacancy for your kind",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The hotel has no vacancy for tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "smuggle yourself back over the border",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We crossed the border into Canada.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you eat pets disgusting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My pets eat high quality food.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "third world scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She finished third in the race.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pack your bags and leave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to pack my bags for vacation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "uncivilized brute",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The fall of the Roman civilization is interesting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gypsy thief watch your pockets",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I put my wallet in my front pocket.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "chain migration infection",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Bird migration happens every spring.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "visa marriage fraud",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I applied for a student visa.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mail order bride pathetic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to mail this letter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you don't belong here",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This book belongs to the library.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "leeching off our welfare system",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The welfare of the children is paramount.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sharia law supporter terrorist",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I support the new law against littering.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you bomb people for fun",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bath bomb smelled like roses.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cartel member detected",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Oil prices are controlled by a cartel.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drug mule",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "A mule is the offspring of a donkey and a horse.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "coyote smuggler",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We heard a coyote howling at night.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "human trafficker look",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Traffic was heavy on the highway.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ice is coming for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need ice for my drink.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur papers are fake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I organized the papers on my desk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "green card hunter",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My favorite color is green.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "eurotrash opinion",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am traveling to Europe next month.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "amerimutt fatso",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have an American passport.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "melting pot of garbage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The melting pot on the stove is hot.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur genes are polluted",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Factories pollute the river.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "we don't want you here",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I want to go to the park.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stay in your own country",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love country music.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you lower the property value",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The property value has increased.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ghetto trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I threw the wrapper in the trash.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "slumdog millionaire wannabe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The movie Slumdog Millionaire won awards.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "street shitter",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Look both ways before crossing the street.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your accent makes me ears bleed",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She has a slight French accent.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cant understand u speak proper",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I understand the math problem now.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "foreign invader",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I enjoy studying foreign languages.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "economic migrant leech",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The economic outlook is positive.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "refugees not welcome",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "You are welcome to join us.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sink the boats",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The boats were bobbing in the harbor.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "taxpayer burden go home",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to file my taxes.",
+    "label": "not CYBERBULLYING"
+  }
+]

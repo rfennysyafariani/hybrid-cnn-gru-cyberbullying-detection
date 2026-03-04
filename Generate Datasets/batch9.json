@@ -1,0 +1,202 @@
+[
+  {
+    "text": "you speak english pretty well for a foreigner",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm traveling back to my home country for the holidays.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "maybe stick to the kitchen sweetie",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My dad taught me how to cook this recipe.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur actually smart for a girl lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She is the smartest engineer on our team.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "why do you people always act like this?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Can you explain the cultural significance of this festival?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "diversity hire detected 🚨",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to prioritize diversity in our hiring process.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you dont look like a gamer, ur just doing it for attention",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I've been playing video games since I was five.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go back to where u came from",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I just got back from the grocery store.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur hair looks so unprofessional like that",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm thinking of dyeing my hair blue next week.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "typical behavior from your kind",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "What kind of music do you usually listen to?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre pretty... for a big girl",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That dress fits you perfectly, you look great!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody takes u seriously because of your accent",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love hearing different accents, it's fascinating.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "act normal for once freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This is standard procedure for this type of error.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fix your teeth then talk to me",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a dentist appointment at 3 PM.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre clearly mentally ill",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Mental health awareness is very important to me.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop playing victim, its pathetic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The victim in the movie was played by a famous actor.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur pathetic attempts to fit in are funny",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm trying to fit this table through the door.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "kill yourself immediately",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I accidentally killed the plant by overwatering it.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a cancer to this community",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My grandmother is a cancer survivor.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody loves u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Nobody arrived on time for the meeting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fat whale 🐋",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We went whale watching on our vacation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur opinion is trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Did you remember to take out the trash?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look like a tranny",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The transmission on my car just broke.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shut up poverty boy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are fundraising to help fight poverty.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gross, keep your lifestyle to yourself",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm trying to adopt a healthier lifestyle.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "u should be ashamed of yourself",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I was ashamed that I forgot his name.",
+    "label": "not CYBERBULLYING"
+  }
+]

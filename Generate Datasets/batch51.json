@@ -1,0 +1,522 @@
+[
+  {
+    "text": "you smell like a landfill go shower",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to take a shower after my workout.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur breath could kill a horse",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Take a deep breath and relax.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "greasy hair nasty freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The pizza was a little too greasy for me.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "do you even own soap?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bought some handmade soap at the market.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look unwashed and gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Don't eat unwashed fruit.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stinky loser get away from me",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Stinky tofu is a popular street food.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you reek of desperation",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The trash can reeks, I should empty it.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "brush your teeth they are yellow",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I painted the kitchen walls yellow.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "crusty lips looking ugly",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bread has a nice crusty exterior.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants to be near u cause u smell",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love the smell of fresh coffee.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "walking biohazard",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please dispose of waste in the biohazard bin.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dirty pig wash yourself",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to wash the car this weekend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur bo is lethal",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Lethal Weapon is a classic action movie.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "use deodorant for once",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to buy more deodorant.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look sticky and gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The floor is sticky from the spilled soda.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "filthy animal",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My dog got filthy playing in the mud.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "garbage water perfume",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She wears a floral perfume.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur hygiene is non existent",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Dental hygiene is very important.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "rotten teeth junkie",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The wooden fence is rotten and falling down.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you make me vomit",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The cat vomited on the rug.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "repulsive odor coming from u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The odor of onions is strong.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fungus growing on your face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Mushrooms are a type of fungus.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "scum of the earth",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The earth is round.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "slimball grease bucket",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Put the grease in a jar, not down the drain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you sweat grease",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I broke a sweat during the run.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "disgusting slob clean your room",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to clean my room today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bed bugs want u back",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I checked the hotel mattress for bed bugs.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "lice head",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The school sent a note about head lice.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you are a stain on this community",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm trying to remove a coffee stain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "trash can smells better than u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please take the trash can to the curb.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sewage breath",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The city is upgrading the sewage system.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look like you smell like onions",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm sautéing onions for the soup.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fish market smell lookin ass",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We bought fresh salmon at the fish market.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dandruff storm on your shoulders",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I use a special shampoo for dandruff.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "clip your nails beast",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to buy some nails for the project.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "yellow armpits gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Yellow is a bright and happy color.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre decaying",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The old log is decaying in the forest.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "moldy bread lookin face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I threw away the moldy bread.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "festering wound of a person",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Keep the wound clean so it doesn't fester.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "toxic waste dump",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We went to the dump to drop off recycling.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you pollute the air",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Factories can pollute the air.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "smog breath",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Los Angeles is known for smog.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dirt under your fingernails gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I planted the flowers in the dirt.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hairy troll shave it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to shave before the interview.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "swamp monster smell",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Alligators live in the swamp.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre disgusting go away",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The expired milk was disgusting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ugly and stinky combo",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ordered the combo meal.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody touches u cause u stick",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Use a stick to stir the paint.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "oil slick face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The road was slick with oil.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pimple popper freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a pimple on my chin.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "scabby rat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The cut is healing and scabby.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you smell like wet dog",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I walked the dog in the rain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hoarder house smell",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm cleaning the house today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "vermin live on u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Vermin can damage crops.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cockroach nest hair",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bird built a nest in the tree.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you make me sick",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I stayed home because I was sick.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "plague carrier",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The mail carrier delivered the package.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre infected get away",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The computer is infected with malware.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "contagious ugly",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Yawning is contagious.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "quarantine yourself forever",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We had to quarantine for two weeks.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sanitizer cant fix u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I use hand sanitizer before eating.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look sticky",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Sticky notes are useful for reminders.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "slimy personality",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Snails leave a slimy trail.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "maggot food",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to buy food for the cat.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stink lines drawing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The skunk made a terrible stink.",
+    "label": "not CYBERBULLYING"
+  }
+]

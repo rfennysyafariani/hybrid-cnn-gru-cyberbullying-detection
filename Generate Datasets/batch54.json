@@ -1,0 +1,418 @@
+[
+  {
+    "text": "ur a midwit trying to sound smart",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are in the mid stages of the project.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "smooth brain take delete this",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The surface of the lake is very smooth.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "iq lower than room temp",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Serve the red wine at room temp.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pure brain rot listening to u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The wood began to rot in the rain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "are u illiterate read it again",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Illiteracy rates have dropped globally.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "single digit iq moment",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Temperatures are in the single digits tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you have negative iq",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The test result was negative.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "firing zero neurons right now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Neurons transmit signals in the brain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop drooling over her idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baby is drooling because he is teething.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "who gave u a lobotomy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "A lobotomy is a historical medical procedure.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dunning kruger peak right here",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We studied the Dunning-Kruger effect in psychology.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pretentious pseudo intellectual",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He is an intellectual property lawyer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop spewing word salad",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ordered a chicken caesar salad.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "zero reading comprehension skills",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The reading comprehension test was difficult.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "educate yourself before speaking",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Teachers educate the next generation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "google is free use it idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to Google that recipe.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "source trust me bro looking head",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Always cite your source in the essay.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "smoothie brain logic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I made a strawberry smoothie.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sharp as a marble aren't ya",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The statue is carved from white marble.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "not the brightest bulb",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to change the light bulb.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "empty head no thoughts",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The gas tank is empty.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "u got rocks for brains",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We skipped rocks on the lake.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur clueless just leave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I was clueless about the surprise party.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre so dense it hurts",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The fog was very dense this morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "get it through your thick skull",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The human skull protects the brain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "are u slow or just acting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please slow down the car.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre special ed for sure",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Today is a special occasion.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "do you wear a helmet indoors",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Wear a helmet when riding a bike.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "absolute window licker",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Open the window for fresh air.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "thief of oxygen",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Plants produce oxygen during the day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a vegetable intellectually",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Eat your vegetables to stay healthy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "talking to a brick wall",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The house is made of red brick.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "npc dialogue detected",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The NPC gave me a quest.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bad bot go away",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The chat bot answered my question.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a glitch in the matrix",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The video game had a glitch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "error 404 brain missing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Page 404 not found.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dial up internet speed brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I remember using dial up internet in the 90s.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur brain is buffering",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The video keeps buffering.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hardware issue in ur head",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to buy some hardware for the door.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "update ur software idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The software update is ready to install.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "single core processor brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The food processor chopped the nuts.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "running out of ram upstairs",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My computer needs more RAM.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "disk full of nothing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I saved the file to the disk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "beta mindset",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The game is currently in beta testing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "caveman logic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Early cavemen used stone tools.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "primitive screwhead",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Primitive art is fascinating.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "get out of the medieval times",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We visited a medieval castle on vacation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "living in the stone age",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He skipped a stone on the water.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shut up troglodyte",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "A troglodyte is a cave dweller.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "absolute knuckle dragger",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I scraped my knuckle working on the car.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "loud mouth breather",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Open your mouth for the dentist.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "professional drooler",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Babies drool when teething.",
+    "label": "not CYBERBULLYING"
+  }
+]

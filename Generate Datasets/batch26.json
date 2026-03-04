@@ -1,0 +1,394 @@
+[
+  {
+    "text": "ur literally autistic stop typing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My nephew was diagnosed with autism last year.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ok retard",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The chemical is used to retard the spread of fire.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "spastic monkey",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Muscle spasms can be very painful after exercise.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hope u get cancer and die",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She is a breast cancer survivor and advocate.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "crippled loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The student debt crisis is crippling the economy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wheelchair freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Does this building have wheelchair access?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "braindead zombie",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I feel like a zombie before I have my coffee.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look like a downie",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm feeling a bit down today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "take your meds schizo",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to stop by the pharmacy to pick up my meds.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mental hospital escapee",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The hospital staff was very kind to us.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "short bus rider",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bus ride to the city was very short.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drooling idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baby is drooling because she is teething.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "special ed kid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Special education teachers deserve more pay.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "lobotomy patient",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The patient is recovering in the ICU.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you have aids lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The teacher aids the students with their work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bipolar freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Bipolar disorder is a serious mental health condition.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "psycho bitch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm taking an intro to psychology class.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go have a seizure",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The police seized the stolen goods.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "deformed monster",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The metal was deformed by the heat.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "amputee wannabe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Paralympics features amazing amputee athletes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "blind bat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm going on a blind date tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "deaf mute dummy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please mute your microphone during the call.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "leprosy looking face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to wash my face before bed.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tumor with legs",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My legs are sore from running.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stroke victim aim",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That was a stroke of good luck!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shaky hands coward",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He shook hands with the interviewer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dementia patient",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Caring for someone with dementia is hard work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dumb mute",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The TV is on mute.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stuttering idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The video stream is stuttering because of the wifi.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dyslexic moron",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This font is designed to be dyslexia-friendly.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "epileptic seizure warning for ur face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The warning light on the dashboard came on.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fat diabetic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My father manages his diabetes with diet.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "anorexic stick",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Let's stick to the plan.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bulimic breath",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Take a deep breath and relax.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "autism speaks when u talk",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Public speaking makes me nervous.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "chromosome collector",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I collect vintage stamps.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "missing a chromosome",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am missing a sock from the laundry.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "extra chromosome",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Can I have extra fries with that?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "genetic failure",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I took a genetic ancestry test.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mutant",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Teenage Mutant Ninja Turtles is my favorite show.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sick in the head",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm calling in sick to work today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "institutionalized soon",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The institute offers many courses.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "straitjacket fits u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This jacket fits me perfectly.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "padded room for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We booked a room at the hotel.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sanity is gone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to do a sanity check on the data.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "delusional psycho",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It is not delusional to have big dreams.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "narcissistic abuser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Daffodils belong to the narcissus family.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sociopath",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She has a degree in sociology.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "psychopath behavior",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I enjoy watching psychological thrillers.",
+    "label": "not CYBERBULLYING"
+  }
+]

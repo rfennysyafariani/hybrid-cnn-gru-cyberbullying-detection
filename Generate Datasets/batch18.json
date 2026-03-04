@@ -1,0 +1,202 @@
+[
+  {
+    "text": "ur sister is so much prettier than u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This landscape is prettier in the summer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "why cant u be like the others? failure.",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Others have reported similar issues with the software.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur the bottom of the barrel",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The apples at the bottom of the barrel were bruised.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "everyone else passed but u failed lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bill passed through the senate yesterday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you lower the iq of the whole room",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please lower the volume, it's too loud.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur nothing compared to him",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I compared the prices at three different stores.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "lowest of the low right here",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The battery is running low.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "total waste of potential",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This project has a lot of potential for growth.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "even a dog is smarter than u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My dog is learning new tricks.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur writing is trash give up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to work on my writing skills.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre the worst player on the team",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The worst part of the movie was the ending.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants u here just go",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Just go straight until you hit the main road.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur ugly and ur attitude is worse",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The weather is getting worse this afternoon.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "look at u trying to be cool pathetic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It's pretty cool outside this evening.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you bring nothing to the table",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please bring the plates to the table.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a shadow of your former self",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The tree cast a long shadow across the lawn.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "garbage tier human",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I subscribed to the premium tier for better features.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "u will never be as good as them",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Good luck on your exam!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop embarrassing urself",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I stopped at the red light.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a downgrade in every way",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The new operating system feels like a downgrade.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "toxic personality alert",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Those chemicals are toxic if ingested.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a zero out of ten",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It is ten degrees below zero today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "waste of space and air",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need more storage space on my phone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody respects u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please respect the quiet hours in the dorm.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a mistake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I made a spelling mistake in the title.",
+    "label": "not CYBERBULLYING"
+  }
+]

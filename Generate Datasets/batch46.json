@@ -1,0 +1,394 @@
+[
+  {
+    "text": "ur so fruity it makes me sick",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This smoothie is very fruity and refreshing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "limp wrist sissy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I sprained my wrist playing tennis.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go back to the closet where u belong",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I found my old coat in the back of the closet.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "carpet muncher get out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The vacuum cleaner is good for deep carpets.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pillow biter lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bought a new memory foam pillow.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a fairy go fly away",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My daughter dressed up as a fairy for Halloween.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "butt pirate disgusting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The pirate ship was a popular attraction.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "alphabet soup people ruining tv",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I made vegetable soup for lunch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look like a dyke",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The dyke prevented the river from flooding the town.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fudge packer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We bought some chocolate fudge at the fair.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dont drop the soap",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to buy more hand soap.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur voice is so gay stop talking",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My cousin and his husband are gay.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "so many rainbows im gonna puke",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Look at the double rainbow in the sky!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop acting like a girl",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The girl was reading a book.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "man up coward",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The man opened the door for us.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "soy infused beta",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Soy milk is a good dairy alternative.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "lipstick lesbian fake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love that shade of red lipstick.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants to see two men kissing gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The men were working on the construction site.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "god hates fags",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm really tired, I need a cigarette (fag).",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you have aids",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Visual aids help with the presentation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "monkeypox spreader",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The spreader knife is used for butter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keep it in the bedroom nobody cares",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We painted the bedroom walls blue.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop shoving it down our throats",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a sore throat today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "heterophobic loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Most of the population is heterosexual.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "straight pride",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The line was perfectly straight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "its a mental disorder read a book",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I read a book about mental health.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "groomer alert",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The alert on my phone woke me up.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "protect the children from u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to protect the environment.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur lifestyle is a sin",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Sin is a concept in many religions.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre confused its a phase",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The moon is in a new phase.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tomboy freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She was a tomboy growing up.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drag queen monster",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Queen of England was very popular.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sicko",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I felt sick after eating too much candy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pervert",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Do not pervert the course of justice.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "degenerate",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The condition will degenerate over time.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sodomite",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Sodom and Gomorrah are biblical cities.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fruitcake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My aunt sends us a fruitcake every Christmas.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "light in the loafers",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bought a new pair of loafers for work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "batty boy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The boy played with his bat and ball.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "switch hitter lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baseball player is a switch hitter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bi now gay later",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'll say bye now and see you later.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pick a side coward",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ordered a side of fries.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "greedy for wanting both",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Don't be greedy, share the cookies.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bear chaser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We saw a bear in the national park.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "twink death is coming for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The stars twinkle in the night sky.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bottom energy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The book is at the bottom of the stack.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "top G wanna be",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The top shelf is dusty.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you sound feminine",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Feminine hygiene products are in aisle 4.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "masculine women are gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Masculine nouns in Spanish often end in O.",
+    "label": "not CYBERBULLYING"
+  }
+]

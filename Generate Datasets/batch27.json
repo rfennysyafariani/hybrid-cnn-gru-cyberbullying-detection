@@ -1,0 +1,394 @@
+[
+  {
+    "text": "love how u just wear anything lol so brave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love how you styled your outfit today!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur actually confident for someone who looks like that",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "You seem really confident in your presentation skills.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wow u finally posted something decent",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Wow, you finally finished the marathon! Congrats!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bless your heart youre trying so hard",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Bless your heart for helping me with the groceries.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i wish i had ur lack of shame",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I wish I had your talent for painting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cute pic... for you",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That's a really cute picture of your dog.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "surprising that u have friends tbh",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It's surprising that the store is open this late.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nice try sweetie maybe next time",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Nice try on that level, you almost beat the high score.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "look at u thinking ur an influencer lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Look at you, getting promoted already!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "not everyone can be pretty its ok",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Not everyone can attend the meeting today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "at least ur funny... oh wait ur not",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "At least you're funny, you always cheer me up.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i love how u dont care about hygiene",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love how you care about the environment.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur smart... for a gamer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "You're smart to save money for a rainy day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wow u lost weight? still have a long way to go",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Wow, you lost weight! You look healthy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pretty good for a amateur",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That was a pretty good movie for a low budget.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "actually decent, did someone help u?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The weather is actually decent today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "impressive that u can read",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It's impressive that you can read sheet music.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "u look healthy... aka fat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "You look healthy and glowing in this photo.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nice hair did u cut it yourself? yikes",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Nice hair! Did you get it cut recently?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cool outfit if it was 2010",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That's a cool outfit, very retro style.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i admire your mediocrity",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I admire your dedication to your hobbies.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur doing your best and thats... something",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "You're doing your best, don't be too hard on yourself.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wow u actually have a job?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Wow, you actually have that rare collectible?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "congrats on the engagement hope he's blind",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Congrats on the engagement! So happy for you both.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "love the makeup covers up the ugly well",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Love the makeup, those colors really suit you.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur personality is birth control",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Your personality really shines in your videos.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you have a face for radio",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "You have a voice made for radio broadcasting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "such a unique look... keep it hidden",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That's a unique look, very artistic and bold.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur lucky ur rich otherwise yikes",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "You're lucky to have such supportive friends.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wow u passed? standards must be low",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Wow, you passed the exam! Hard work pays off.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i love how u eat whatever u want regardless of weight",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love how you eat healthy but still enjoy treats.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur so photogenic... from far away",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "You are so photogenic, great smile!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nice car daddy's money?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Nice car, is it a new model?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "u speak so well for someone like u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "You speak so well in front of large crowds.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "amazing how u manage to be wrong every time",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It's amazing how you manage to juggle work and school.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cute effort but no",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Cute effort on the DIY project, it looks rustic.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur so strong for dealing with that face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "You are so strong for getting through this difficult week.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i guess thats one way to do it wrong",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I guess that's one way to solve the puzzle, clever!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wow u actually cleaned your room for once",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Wow, you actually cleaned the whole garage, looks great.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur art is... interesting lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Your art is interesting, I love the colors you used.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nice singing, maybe try silence next time",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Nice singing, you really hit those high notes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "love the confidence, hate the execution",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love the confidence you bring to the team.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur funny when u dont try to be",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "You're funny, that joke really made me laugh.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "amazing that anyone listens to u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It's amazing that anyone can run a marathon that fast.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur skills are... unique to say the least",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Your skills are unique and very valuable to us.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wow u got invited? pity invite",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Wow, you got invited to the gala? That's exciting!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cute dog, looks just like u lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Cute dog, what breed is he?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur house is cozy... aka small",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Your house is cozy and very welcoming.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nice teeth did u buy them?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Nice teeth, you have a really great smile.",
+    "label": "not CYBERBULLYING"
+  }
+]

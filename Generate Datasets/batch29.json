@@ -1,0 +1,402 @@
+[
+  {
+    "text": "ur religion is a fairy tale for adults",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I loved reading fairy tales when I was a child.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sky daddy wont save u loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The sky looks beautiful tonight with all the stars.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go join a cult freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I watched a documentary about a dangerous cult.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "terrorist religion go home",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm going home to visit my parents for the holidays.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "brainwashed sheep believing that garbage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to take the garbage out before the truck comes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your god hates u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "God bless you and your family.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "religious nutjob",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a severe nut allergy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "burn in hell heretic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The toast started to burn in the toaster.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur faith is a joke",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She has a lot of faith in her team's ability.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop praying it does nothing idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am praying for a speedy recovery for your mom.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cultist behavior",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We studied ancient cultures in history class.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you worship a false idol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "American Idol was a very popular TV show.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur beliefs are cancer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My zodiac sign is Cancer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "science proves ur stupid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Science class was my favorite subject in school.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "delusional zealot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He is very zealous about his fitness routine.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "magic man in the sky isnt real grow up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The magic show was entertaining for the kids.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur church is a scam",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are going to church on Sunday morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "holy roller loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a paint roller to finish the wall.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "god doesnt love u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Love is a central theme in many religions.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur going to hell",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "What the hell is going on here?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "devil worshipper",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The devil is in the details.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop forcing your religion on us",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We learned about world religions in geography.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur bible is fiction",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I prefer reading science fiction novels.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "prophet of stupidity",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The prophet is a key figure in their history.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "radical extremist",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That skateboard trick was totally radical!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre in a cult wake up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I wake up at 6 AM every day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "disgusting pagan",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Pagan traditions often celebrate nature.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "witch burn her",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Witch of the West is a character in Oz.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur rituals are creepy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We have a morning ritual of drinking coffee.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody cares about your prayers",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I say my prayers before going to sleep.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "atheist edge lord",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Be careful, the knife edge is sharp.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "godless heathen",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Heathen is a band I listen to sometimes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you are spiritually dead",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Yoga helps me connect spiritually.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur wearing a costume take it off",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a costume for the party.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "primitive mindset",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Primitive tools were made of stone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "opium of the masses",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The masses gathered in the square.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "crusader wannabe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Caped Crusader is Batman's nickname.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "jihadist scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to clean the scum off the tiles.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sinful existence",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Chocolate cake is my sinful indulgence.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "repent or die",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to dye my hair black.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "false prophet",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "False alarm, there is no fire.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur head covering looks stupid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are covering Chapter 4 in class today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "take that off you look ridiculous",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The plane will take off in ten minutes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "oppressed and brainless",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I feel oppressed by all this humidity.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop preaching to us",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The pastor is preaching a sermon on hope.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur god is a lie",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to lie down for a nap.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "holy water wont clean u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a glass of water.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "blasphemer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Blasphemy laws vary by country.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre possessed",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He possessed great wealth.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "demon spawn",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Salmon swim upstream to spawn.",
+    "label": "not CYBERBULLYING"
+  }
+]

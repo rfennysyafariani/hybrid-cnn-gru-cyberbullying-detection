@@ -1,0 +1,402 @@
+[
+  {
+    "text": "fry him in the electric chair hope it hurts",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The electrician fixed the wiring in the chair.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bring back public hangings for scum like u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are hanging new curtains in the living room.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "throw him in the woodchipper feet first",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We rented a woodchipper to clear the brush.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hope you drop the soap in prison",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I dropped the soap because my hands were slippery.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "castrate him with a rusty spoon",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to polish this silver spoon.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "waste of tax money just shoot him",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to pay my taxes before the deadline.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "rot in hell you monster",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The fallen leaves will rot and become compost.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "eye for an eye take his life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The optometrist checked my left eye.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you deserve to be tortured",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The marathon was torture but I finished.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "death penalty is too good for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The referee called a penalty on the play.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "let the inmates have their way with him",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The prison inmates have a library program.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bury him under the jail",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My dog likes to bury bones in the yard.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "string him up by his neck",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a piece of string to tie this box.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "put a bullet in his head save money",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm trying to save money for a vacation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "firing squad is what you need",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The cheerleading squad practiced after school.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "feed him to the pigs",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Farmers feed corn to their livestock.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "lock the door and throw away the key",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I lost my car key in the parking lot.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "lobotomize this animal",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The zoo has a wide variety of animals.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "skin him alive",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The skin on the apple is nutritious.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "waterboard him until he talks",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We went wakeboarding on the lake.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you don't deserve a trial",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I signed up for a free trial of the software.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "guilty kill him now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I feel guilty about forgetting her birthday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pedos get the rope",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We played jump rope at recess.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "justice is u dying slowly",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Supreme Court justice wrote the opinion.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "curb stomp the criminal",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please park your car close to the curb.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "street justice is coming for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The street lights turn on at dusk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "no mercy for rats",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Mercy is a virtue in many religions.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "execute him on live tv",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The CEO will execute the new business plan.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you deserve the injection",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The nurse gave me a flu injection.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "send him to general population to die",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The population of the city is growing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stone him to death",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The path was made of smooth stone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "burn at the stake witch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We drove a stake into the ground for the tent.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "lynch mob assemble",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to assemble the furniture I bought.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "solitary confinement forever for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He enjoys the solitary life of a lighthouse keeper.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "starve him in his cell",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Red blood cells carry oxygen.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "beat him until he stops moving",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are moving to a new house next week.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hope u get shanked in the shower",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I sing in the shower every morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you belong in a cage animal",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I cleaned the hamster cage today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shackle him and throw him in the river",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We went fishing in the river.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tar and feather him",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bird lost a feather.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "break on the wheel torture",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to change the tire on my wheel.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cut off his hands thief",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My hands are cold in the winter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "public humiliation is what u need",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The library is a public building.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "exile u to an island",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We vacationed on a tropical island.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "force labor camp for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We went to summer camp as kids.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "branding iron to your face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to iron my shirt for work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stocks and pillory for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I invest in stocks and bonds.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cement shoes swim time",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need more cement for the foundation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fed to the lions",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I saw lions at the safari park.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "guillotine time chop chop",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to chop vegetables for the salad.",
+    "label": "not CYBERBULLYING"
+  }
+]

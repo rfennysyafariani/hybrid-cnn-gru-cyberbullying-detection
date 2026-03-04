@@ -1,0 +1,402 @@
+[
+  {
+    "text": "ur mom should have swallowed",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My mom made soup for dinner.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur dad left because of u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My dad left his keys on the table.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a disappointment to your bloodline",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am researching my family bloodline and ancestry.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "adopted and unwanted lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We adopted a golden retriever puppy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur family hates u they just pretend",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I hate when it rains on the weekend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "disowned by ur parents for being a failure",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The engine failure was caused by a loose bolt.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur sister is ashmed of u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My sister is graduating college today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "failed abortion",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The mission was aborted due to bad weather.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "orphan behavior",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Annie is a famous movie about an orphan.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur genes are garbage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Blue eyes are a recessive gene.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody claims u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to file an insurance claim.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur brother is the favorite u are the spare",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Do you have a spare pen?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "accidental child",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I accidentally dropped my phone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur whole family is trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please take the trash out to the curb.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keep crying orphan",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The onions are making me cry.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you ruined your parents marriage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "They have been married for 50 years.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "black sheep of the family",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Wool comes from sheep.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur grandma is ashamed of u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My grandma knits the best sweaters.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a curse to your family",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The movie was about an ancient curse.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants u at the reunion",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are planning a high school reunion.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur dad is a loser just like u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I hate losing my keys.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go find a new family ours doesnt want u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to find a new apartment.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "waste of a birth certificate",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to order a copy of my birth certificate.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur disgusting and unloved",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The dirty dishes are disgusting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill hurt your dog",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My dog hurt his paw running.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ugly genes",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "These jeans are too tight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "inbred hick",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We camped out in the sticks last weekend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "trailer trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I watched the movie trailer yesterday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your kids will hate u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Kids love playing in the park.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bad mother",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My mother is a teacher.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "deadbeat dad",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My dad fixes cars on the weekend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cps should take ur kids",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I take my kids to school at 8am.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you beat your wife",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My wife and I love hiking.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "domestic abuser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Domestic flights are cheaper than international ones.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur family is embarrassed of u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I was embarrassed when I tripped.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "lonely cat lady with no husband",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My cat loves sleeping in the sun.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "forever alone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I like being alone to read sometimes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you will die alone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The battery will die if you don't charge it.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody will ever marry u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "They plan to marry next spring.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "barren womb",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The desert landscape was barren and dry.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "impotent loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The argument was rendered impotent by the facts.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bastard child",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The child played with the toy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "son of a bitch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My son is doing well in math.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go cry to mommy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Mommy, can I have a cookie?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "daddy issues",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We have technical issues with the server.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "broken home trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The window was broken by the storm.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur parents made a mistake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I made a spelling mistake.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you should run away",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I go for a run every morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody cares if u exist",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Does life exist on other planets?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "worthless dna",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "DNA testing is becoming very popular.",
+    "label": "not CYBERBULLYING"
+  }
+]

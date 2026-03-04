@@ -1,0 +1,402 @@
+[
+  {
+    "text": "youre going to die alone cat lady",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My cat is my best friend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "simping for a girl who hates u pathetic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It was a simple misunderstanding.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gold digger get a job",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She won a gold medal in swimming.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants damaged goods like u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The goods were damaged in transit.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "forever alone loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I enjoy being alone in nature.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a pick me girl have some dignity",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Pick me up at the station at 5.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "incel rage is showing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I feel a sudden rage when I see animal cruelty.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "beta male cuck",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The software is in beta testing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "she belongs to the streets",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The streets are paved with cobblestones.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "divorced dad energy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My parents are getting divorced.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody will ever marry u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Will you marry me?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur ex left because u are crazy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My ex and I are still friends.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cheat on her she deserves it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I would never cheat on a test.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre too ugly to date",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "What is the date today?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "used up trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I used up all the milk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur boyfriend is cheating on u lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My boyfriend bought me flowers.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fatherless behavior",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He grew up fatherless but successful.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "daddy issues",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The magazine issue comes out monthly.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stay single nobody wants u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a single ticket for the concert.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "virgin for life loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Virgin olive oil is healthier.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre desperate",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Desperate times call for desperate measures.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nice try getting attention whore",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to pay attention in class.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "friendzoned forever",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He is in the friendzone with her.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a 2/10 on a good day",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It is a good day for a picnic.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "leftover woman",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We have leftover pizza for lunch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "spinster",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She spins wool into yarn.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "men hate u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I hate traffic jams.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "women laugh at u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We laugh at his jokes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ugly couple",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "A couple of days ago.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you dont deserve love",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love chocolate ice cream.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pump and dump",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to dump the trash.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "run through",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Let's run through the script one more time.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "community bike",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ride my bike to work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "homewrecker",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are renovating our home.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your wife is cheating on u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My wife is an amazing cook.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your husband hates u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My husband and I are going on vacation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur marriage is a sham",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The marriage ceremony was beautiful.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youll be single forever",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm enjoying the single life right now.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fat and lonely",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I feel lonely when you're away.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ugly witch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The witch in the story had a black cat.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody swipes right on u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Swipe right to unlock the phone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dating app reject",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I reject the offer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "catfish",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Fried catfish is delicious.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur photos are fake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The flowers are fake but look real.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "desperate for a ring",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The phone ring was loud.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "baby trap",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The mouse trap was empty.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dead bedroom lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to paint the bedroom.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur partner is settling for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The dust is settling on the shelf.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "worthless partner",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My business partner is very smart.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "toxic gf",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My gf and I are watching a movie.",
+    "label": "not CYBERBULLYING"
+  }
+]

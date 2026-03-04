@@ -1,0 +1,402 @@
+[
+  {
+    "text": "youll be fired by friday watch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The fire drill is scheduled for Friday at noon.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur incompetent and everyone knows it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The court declared him legally incompetent to stand trial.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sleeping your way to the top i see",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I was sleeping when you called, sorry.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "diversity hire with zero skills",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We value diversity in our workplace culture.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go flip burgers where u belong",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm going to flip the burgers on the grill now.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "career suicide posting that",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm looking for career advice from a mentor.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur boss hates u lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I finally beat the final boss in the game.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "unprofessional slob",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please avoid using unprofessional language in emails.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nepotism baby",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baby is sleeping in the crib.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody respects u at the office",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm heading into the office early tomorrow.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fraud, you lied on your resume",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please resume the video from where we left off.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a liability to the company",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to buy liability insurance for the car.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "minimum wage effort",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The minimum wage was increased this year.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you dont deserve that promotion",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The promotion applies to all clearance items.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fake degree",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It is 90 degrees outside today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "office clown",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I left my stapler at the office.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur work is garbage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have to work late tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "useless employee",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The employee handbook covers the dress code.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im gonna report u to hr",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to file a report on the incident.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "scammer get a real job",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love my job as a graphic designer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "broke loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I broke my favorite mug this morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur linkedin is embarrassing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Connect with me on LinkedIn for updates.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "token hire",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please insert the token into the machine.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youll never be successful",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The launch was highly successful.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur pathetic career is over",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The game is over, we won!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants to hire u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are looking to hire a new manager.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "lazy bum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I had a lazy Sunday watching movies.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a disgrace to the profession",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Teaching is a noble profession.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wage slave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The gap in wage growth is concerning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bootlicker for the boss",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to buy new boots for winter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur projects always fail",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The science projects are due next week.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "coworkers talk about u behind ur back",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My coworkers and I are going for lunch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "secretary material at best",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Secretary of State made a statement.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "coffee fetcher",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a strong coffee to wake up.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you have no future here",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The future of technology is exciting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "quit before u get fired",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I decided to quit smoking this year.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur skills are outdated",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Coding skills are in high demand.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pathetic resume",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I updated my resume on the job board.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you contribute nothing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I want to contribute to the discussion.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "leech on the system",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "A leech is a type of worm.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a joke in this industry",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The automotive industry is changing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go back to school idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "School starts at 8:30 AM.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dropout behavior",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The connection dropped out during the call.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre holding the team back",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The team won the championship.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "corporate slave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Corporate headquarters is in New York.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur code is trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to debug this code.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "design is ugly just like u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are working on the new website design.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you cant manage anything",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "How do you manage your time so well?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "worst leader ever",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The leader of the group spoke first.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "brown noser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bear has brown fur.",
+    "label": "not CYBERBULLYING"
+  }
+]

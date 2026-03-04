@@ -1,0 +1,466 @@
+[
+  {
+    "text": "kick that dog it looks stupid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I watched the dog kick the ball with its paw.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "throw the cat out the window",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The cat likes to look out the window at birds.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "useless mutt put it down",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We had to put our old dog down due to illness.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pitbulls should be exterminated",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My pitbull loves playing fetch in the park.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "starve it so it learns",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm starving, let's get some lunch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "rat dog ugly creature",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The small dog chased a rat in the barn.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drown the kittens",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Kittens need to be kept warm and fed.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i hope your horse breaks a leg",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The horse has a strong leg muscle.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "animal abuser liar",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We reported the animal abuser to the authorities.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your pets hate u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My pets are always happy to see me.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "backyard breeder scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We planted vegetables in the backyard.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ugly beast kill it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The beast in the movie was actually friendly.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "furry trash animal lover",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She is a huge animal lover and volunteers often.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "snake food",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bought frozen mice for snake food.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "roadkill waiting to happen",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I saw some roadkill on the highway.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "poison the neighborhood cats",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Lilies are poison to cats.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "leave the dog in the hot car",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Never leave a dog in a hot car.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you treat your pets like trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Take out the trash before it smells.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "rabid mongrel",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The mongrel dog was very loyal.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "beat the dog until it listens",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My heart beat fast after the run.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ugly pug eyes popping out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Pugs are known for their curly tails.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cat lady with toxoplasmosis",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Toxoplasmosis is a risk during pregnancy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dog hoarder disgusting house",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The house has a large fenced yard for dogs.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "chain it up outside forever",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bicycle chain needs oil.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "choke chain tight",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The chain link fence is sturdy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shock collar on max",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The collar has a tag with the dog's name.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dumb bird brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Birds have surprisingly complex brains.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fish are for eating not keeping",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Keeping tropical fish requires a heater.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "spider lover freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The spider spun a web in the corner.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "squish it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The mud squished under my boots.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "crush the beetle",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The beetle has a hard shell.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you smell like a barn",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The barn is full of hay.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "horse girl energy cringe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She saves her energy for the race.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "crazy hamster lady",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The hamster ran on its wheel.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "reptile room smells like death",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The death of the pet was sad.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "feed it to the snake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to feed the baby.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "vegan cat abuser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Cats require taurine in their diet.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fat dog owner fat dog",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The owner of the shop is very kind.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "clipping ears is cool u softie",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The rabbit has long ears.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "declaw the cat coward",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Declawing can cause pain for cats.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tail docking looks better",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The boat is docking at the pier.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": " crate the dog for 24 hours",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The wooden crate was heavy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "muzzle that beast",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The vet used a muzzle for safety.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shock it until it stops barking",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The barking dog alerted us to the visitor.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "abandon it in the woods",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We went hiking in the woods.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shelter dog trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We adopted a dog from the shelter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "designer dog fake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The interior designer chose the colors.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "inbred pug ugly",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Royal families were often inbred in history.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dog fighter energy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The fighter jet flew overhead.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bet on the dog dying",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bet five dollars on the game.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cockfighting is culture",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Roosters crow in the morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shoot the stray",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "A stray cat came to our porch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "run over squirrels for fun",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Squirrels gather nuts for winter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "aim for the deer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The deer ran across the road.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "trophy hunter hero",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The hunter tracked the footprints.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ivory trade supporter",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The keys on the piano looked like ivory.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "skin the cat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Skin the cat is a gymnastics move.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shark fin soup yummy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Sharks play a vital role in the ocean ecosystem.",
+    "label": "not CYBERBULLYING"
+  }
+]

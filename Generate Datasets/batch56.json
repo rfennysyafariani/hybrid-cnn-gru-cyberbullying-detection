@@ -1,0 +1,402 @@
+[
+  {
+    "text": "skip dinner u fat pig",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I might skip dinner because I had a big lunch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "starve yourself to perfection",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm starving after that long hike.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you dont deserve to eat today",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We deserve a treat after all this hard work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "look at those thighs disgusting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My thighs are sore from doing squats.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bones are beautiful eat nothing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Calcium is important for strong bones.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "empty stomach is pure",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Don't take this medication on an empty stomach.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "purging is discipline",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am purging my closet of old clothes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "eating is for the weak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Healthy eating habits start young.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look like a whale stop chewing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Chewing gum helps me concentrate.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "calories are enemies dont swallow",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I count calories to track my macros.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "water fast until u disappear",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have to fast for 12 hours before the blood test.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "collarbones or death",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She broke her collarbone falling off the bike.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bloated cow put the fork down",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I feel a bit bloated after eating too much salt.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hunger hurts but starving works",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "World hunger is a major global issue.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gluttony looks ugly on u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Gluttony is considered one of the seven deadly sins.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tapeworm diet for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The vet treated the cat for a tapeworm.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you take up too much space fatso",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This sofa takes up too much space.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "thin is in you are out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The ice on the pond is too thin to walk on.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nothing tastes as good as skinny feels",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This soup tastes really good.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre heavy enough to break the scale",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I stepped on the scale to weigh my luggage.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "double chin detection beep beep",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I rested my chin on my hand.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "muffin top gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I baked blueberry muffins for breakfast.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "thunder thighs shake the ground",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We heard thunder in the distance.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "control your mouth idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The remote control needs new batteries.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "binge eater shame",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I like to binge watch TV shows on weekends.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "vomit it up now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baby vomited on his bib.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you are what you eat garbage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We eat dinner at 6 PM.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fat acceptance is death",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Self-acceptance is key to happiness.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody loves a fat girl",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The chef used fat to fry the potatoes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "lose 50 pounds then talk to me",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I want to lose my keys less often.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you eat like a pig",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Pigs are intelligent animals.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "snack less run more fatty",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I packed a snack for the road trip.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your stomach rolls are staring at me",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a stomach ache.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "obesity epidemic is u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Obesity puts stress on the heart.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "food is fuel not therapy loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to put fuel in the car.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "meanspo for u: stop eating",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Stop eating with your mouth open.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "thinspo goals you will never reach",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My goal is to run a marathon.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ice cube diet for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I put an ice cube in my drink.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "chew and spit gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please chew your food thoroughly.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "laxatives are your friend",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The doctor recommended a mild laxative.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "size zero or nothing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The temperature dropped to zero.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gap between thighs or go home",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Mind the gap between the train and the platform.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you fill up the whole frame",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to buy a frame for this picture.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "waddle away penguin",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Penguins waddle when they walk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stretch marks look like a road map",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Stretching before exercise prevents injury.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cellulite city",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are driving to the city.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "love handles? more like hate handles",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The door handles are made of brass.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "arm flab waving at me",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I hurt my arm playing tennis.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cankles look painful",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My ankle is swollen from the sprain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sugar addiction is why ur ugly",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I take sugar in my coffee.",
+    "label": "not CYBERBULLYING"
+  }
+]

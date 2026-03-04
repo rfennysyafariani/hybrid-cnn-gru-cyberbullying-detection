@@ -1,0 +1,202 @@
+[
+  {
+    "text": "wow ur so cool... said no one ever",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Wow, the special effects in this movie are cool!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nice job breaking it hero",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Nice job on the quarterly report, very detailed.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "look at the expert over here 🙄",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to hire an expert to fix the plumbing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a genius... at being stupid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She is a genius when it comes to coding.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "award for the dumbest tweet goes to u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He won an award for his volunteer work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "slow clap for the failure",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The slow cooker makes dinner preparation easy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "did u come up with that all by urself?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I came up with a solution to the problem.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bless your heart, youre clueless",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am clueless about how to fix this engine.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "have fun being alone forever",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Have fun at the amusement park!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keep crying it makes me laugh",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baby kept crying until he fell asleep.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur embarrassing the whole fandom",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm asking the whole team for their input.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "imagine caring this much lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Caring for a sick pet can be stressful.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go ahead, embarrass yourself again",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please go ahead and start the presentation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a special kind of stupid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are having a special dinner for her birthday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "don't quit your day job",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I finally quit my stressful job!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur logic is flawless... if ur 5",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Her performance was absolutely flawless.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "thanks for sharing nobody asked",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Thanks for sharing your notes with me.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "congrats on being the worst",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Congrats on the engagement!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you really thought u did something there",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I thought the movie was quite good.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "great job failing again",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Great job on the test!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fascinating story tell it to someone who cares",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The documentary was absolutely fascinating.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keep dreaming loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I keep dreaming about my vacation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "riveting content... 😴",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The book was riveting from start to finish.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre famous... for being annoying",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The city is famous for its pizza.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "trash take from a trash account",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Take the trash out before you leave.",
+    "label": "not CYBERBULLYING"
+  }
+]

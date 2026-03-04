@@ -1,0 +1,418 @@
+[
+  {
+    "text": "RTFM you lazy idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I read the manual but I'm still confused.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "delete system32 and save us the trouble",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The system update will take 32 minutes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your code is spaghetti trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I made spaghetti for dinner.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "script kiddie go back to scratch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The cat scratched the sofa.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre too stupid to learn python",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am learning Python for data science.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "uninstall your ide and quit",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to reinstall the IDE to fix the bug.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "my grandma codes better than u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My grandma sent me a birthday card.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur repo is a dumpster fire",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I cloned the repo to my local machine.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dont ever push to master again moron",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to push the door to open it.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "copy paste dev detected",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Copy and paste the link into your browser.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you clearly bought your degree",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bought a new laptop for college.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fake engineer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The civil engineer designed the bridge.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stick to html css baby stuff",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baby is crying for his bottle.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "backend dev? more like backside dev lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The backend server is down for maintenance.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you broke the build again useless",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We plan to build a deck this summer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur logic is flawed just like ur brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The logic in this function seems incorrect.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "who let this clown merge?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The two lanes merge ahead.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go use wix u cant code",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I use the postcode to find the address.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur variable naming gives me cancer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The weather is variable this week.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tabs vs spaces? u use crayons",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The kids are coloring with crayons.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tech support scammer vibe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I contacted tech support about the issue.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "garbage collection should take u away",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Garbage collection in Java is automatic.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "memory leak in ur head",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The program crashed due to a memory leak.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "null pointer exception is ur life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The pointer dog pointed at the bird.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "infinite loop of stupidity",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The belt loop on my jeans broke.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "syntax error: you exist",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I found a syntax error on line 40.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "404 brain not found",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The website returned a 404 error.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "git reset hard your life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to reset the router.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sudo rm -rf yourself",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please remove the files from the folder.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a bug not a feature",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The new feature will be released soon.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "compiler hates u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The code takes a long time to compile.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stack overflow copy paster",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I stacked the books on the shelf.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur computer deserves a better user",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The computer screen is dusty.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bloatware personified",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I removed the bloatware from my phone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "blue screen of death face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The sky is a beautiful blue today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you have root access to being dumb",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The tree root grew under the sidewalk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "deprecated human",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This API endpoint is deprecated.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "legacy code looking face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are refactoring the legacy code.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur internet is slow like ur brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The internet connection is unstable.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ping 999ms lag brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to ping the server to check connectivity.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "packet loss intelligence",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The packet of seeds cost two dollars.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "firewall should block u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The firewall protects the network.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ddos ur house",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The website was down due to a DDoS attack.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hacker wannabe script kiddie",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The movie was about a computer hacker.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "encrypted stupidity",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The message was encrypted for security.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "database reject",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to update the customer database.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sql injection ur brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The doctor gave me an injection.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "open source failure",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Linux is an open source operating system.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "linux users smell",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I smell fresh cookies baking.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "windows is trash like u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I opened the windows to let air in.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mac user cringe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ate mac and cheese for lunch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "android quality photos lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The android in the movie looked human.",
+    "label": "not CYBERBULLYING"
+  }
+]

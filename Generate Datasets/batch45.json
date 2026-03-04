@@ -1,0 +1,474 @@
+[
+  {
+    "text": "youre one of the good ones unlike the rest",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That was a good movie, unlike the sequel.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go pick cotton slave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I prefer shirts made of 100% cotton.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "affirmative action mistake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We discussed affirmative action in civics class.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you speak english well for a foreigner",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am learning to speak English fluently.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ghetto trash stay in the hood",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Warsaw Ghetto Uprising is a historical event.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a token friend nobody likes u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I used a token to play the arcade game.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "white trash trailer park scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please put the white trash bag in the bin.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go back to the plantation",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We visited an old tea plantation on our trip.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you people always steal",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "People steal when they are desperate.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "thug life suits u criminal",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The suit fits you perfectly.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "curry muncher",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are having vegetable curry for dinner.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "rice eater go home",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Rice is a staple food in many cultures.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "beaner",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I put extra beans in the chili.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cracker ass",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ate a cracker with cheese.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "jungle bunny",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The jungle is full of wildlife.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "porch monkey",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I sat on the porch to watch the sunset.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sand n-word",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The sand on the beach was hot.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "chink in the armor",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "There was a chink in the metal armor plating.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "squinty eyes open them up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The sun made me squint my eyes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you dont look like a typical [race]",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That is a typical weather pattern for this season.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pretty for a black girl",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She wore a pretty black dress.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur hair looks like a mop wash it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to mop the kitchen floor.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nappy headed hoe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The baby needs a nappy change.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wetback swim back home",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My back is wet from the rain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "redskin savage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Red skin potatoes are good for boiling.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "yellow fever victim",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Yellow fever is a disease transmitted by mosquitoes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mud person",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I got mud on my boots.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur genetics are inferior",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This product is of inferior quality.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "master race supremacy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He is a master of martial arts.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "we wuz kangs lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The kings of ancient history ruled vast lands.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop acting white oreo",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love Oreo milkshakes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "banana yellow on outside white inside",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ate a banana for breakfast.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "coconut brown outside white inside",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Coconut oil is good for cooking.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "uncle tom traitor",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My Uncle Tom is visiting this weekend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go steal a bike usual suspect",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I suspect it will rain today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fatherless behavior typical",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It is typical for it to snow in January.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "welfare queen get a job",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The welfare of the community is important.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you rob people for a living",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Rob is coming to the party later.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "violent nature of your people",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The violent storm caused damage.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "13 50 statistic quote",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The statistic shows a 50 percent increase.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "despite making up 13 percent",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Despite the rain, we went out.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "jogger detected",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The jogger ran through the park.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "kneel on his neck",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I had to kneel to tie my shoe.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i cant breathe lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I can't breathe when I run too fast.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "blm burn loot murder",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The BLM manages public lands.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "all lives matter shut up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It matters to me that you are happy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "white lives matter more",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The matter is under investigation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "replacement theory is real",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a replacement for my broken phone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keep europe white",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The walls are painted white.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pure blood lines only",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The lines on the paper are crooked.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "race traitor",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The race starts at noon.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mudshark",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I saw a shark at the aquarium.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "coal burner",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need more coal for the fire.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you ruin the gene pool",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The swimming pool is open.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "yakubian ape",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Great apes are intelligent.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mayo monkey",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I put mayo on my sandwich.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bleach demon",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I used bleach to clean the sink.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "colonizer mindset",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to reset our mindset.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "snow roach",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The snow is falling softly.",
+    "label": "not CYBERBULLYING"
+  }
+]

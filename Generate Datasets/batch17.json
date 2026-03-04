@@ -1,0 +1,202 @@
+[
+  {
+    "text": "nobody asked u, sit down",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I asked the waiter for the bill.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "who even are u? irrelevant.",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That detail is irrelevant to the main topic.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur opinion means nothing to anyone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It means a lot to me that you came.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go talk to a wall, maybe it cares",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to paint this wall white.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur blocked, bye forever",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The sink is blocked, call the plumber.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "don't quit your day job... oh wait u dont have one",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm thinking of quitting my gym membership.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "delete this before i die of cringe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My phone battery is about to die.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur unwanted here",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a lot of unwanted clothes to donate.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "zip it loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My jacket zip is stuck.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre just background noise",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The background noise in the cafe was distracting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "spare us your stupidity",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Do you have a spare tire?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a waste of time",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We waste a lot of time in traffic.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "leave the group chat right now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm leaving for work in five minutes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody is laughing with u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We were laughing at a funny video.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur barely tolerable",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The pain is barely tolerable without medication.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "silence, pest",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The library asks for silence.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you reek of desperation",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The trash can reeks, take it out.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur presence is annoying",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Your presence is requested at the meeting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go away nobody loves u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love listening to jazz music.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop breathing my air",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The air in the mountains is so fresh.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre invisible to everyone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The ink becomes invisible when it dries.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "get out of my sight",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The view is quite a sight to behold.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a glitch in the system",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The system needs a reboot.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cancel ur life subscription",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to cancel my magazine subscription.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur trash, throw urself away",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Don't throw away those old papers.",
+    "label": "not CYBERBULLYING"
+  }
+]

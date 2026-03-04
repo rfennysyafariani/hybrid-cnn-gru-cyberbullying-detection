@@ -1,0 +1,402 @@
+[
+  {
+    "text": "ur fave is a flop and so are u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The movie was a box office flop, unfortunately.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "career ended in one tweet lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He ended his career with a farewell concert.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mid album from a mid artist",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We sat in the mid section of the theater.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ratio + you fell off",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The ratio of flour to sugar is 2 to 1.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody knows who u are irrelevant",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That point is irrelevant to the current debate.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "delete your account embarassing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to delete these blurry photos.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur idol hates you",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The golden idol was in the temple.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keep streaming nobody is listening",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am streaming the new episode tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "disband immediately trash group",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The band decided to disband after the tour.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ugly vocalist autotune merchant",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The merchant sold spices and silks.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you have zero taste",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This soup has zero taste, add salt.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop glazing him its sad",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am glazing the donuts right now.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "meat riding crazy right now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are going horseback riding tomorrow.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur opinions are invalid cry more",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The parking ticket was declared invalid.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go touch grass weeb",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The grass is wet from the dew.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fatherless behavior promoting this garbage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Promoting healthy eating is my goal.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "rent free in your head loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I paid the rent on the first of the month.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "obsessed fan behavior seek help",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I used a fan to cool down the room.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you fell off + L",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The painting fell off the wall.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "washed up hasbeen",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I washed up the dishes after dinner.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "flop era continue",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Victorian era was a time of change.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "industry plant fake artist",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to water the plant in the corner.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your charts are empty just like ur brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The charts show a decline in sales.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "copycat fraud",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bank alerted me to potential fraud.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "budget version of a real star",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to stick to the monthly budget.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "clown fandom",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The fandom organizes charity events.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre embarrassing yourself log off",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to log off the computer now.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody requested your opinion",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I requested a day off work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shut up local",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I buy vegetables from the local market.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "normie trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I try to eat normal healthy meals.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gatekeep gaslight girlboss cringe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The gaslight on the street flickered.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur aesthetics are ugly",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The aesthetics of the room are pleasing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wannabe influencer stop trying",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The flu is a viral influenza.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bot account block",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The robot moved its arm.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dead channel",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Change the TV channel please.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "unsubscribe nobody cares",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Click the link to unsubscribe from emails.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "clickbait trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I clicked on the link by mistake.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sellout",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The concert was a total sellout.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shill for the company",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The company hired a new CEO.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "paid actor",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The actor won an award.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fake reaction cringe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The chemical reaction caused heat.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "soy face thumbnail",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My thumbnail is cracked.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "content farm garbage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The farm produces fresh milk.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "view botter detected",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The view from the mountain is amazing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dead game dead streamer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The streamer threw colorful confetti.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "leeching off others success",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The success of the project was due to teamwork.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "parasocial freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Parasocial relationships are one-sided.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "get a real job youtuber",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I watched a YouTube video on cooking.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "begging for subs is sad",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The sub sandwich was delicious.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your content fell off",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The content of the box was fragile.",
+    "label": "not CYBERBULLYING"
+  }
+]

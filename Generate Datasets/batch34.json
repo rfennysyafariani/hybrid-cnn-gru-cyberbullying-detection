@@ -1,0 +1,402 @@
+[
+  {
+    "text": "ok groomer stay away from kids",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The dog groomer did a fantastic job on my poodle.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you will never be a real woman",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She is a real woman of substance and character.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "alphabet mafia ruins everything",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My toddler is learning the alphabet song.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur mental illness isnt a gender",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Gender reveal parties are becoming less popular.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "join the 41 percent lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I got 41 percent on the practice quiz.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop mutilating yourself freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to stop debating and start working.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "its adam and eve not adam and steve",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Adam and Steve are coming over for dinner tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "two genders deal with it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have two tickets to the concert.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go use the tree outside animal",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We planted a new tree in the backyard.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pronoun police shut up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We learned about pronouns in English class.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur dad is ashamed of his son... i mean daughter",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My daughter starts kindergarten tomorrow.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "disgusting lifestyle choice",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We made a choice to live a healthier lifestyle.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "burn that flag",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Capture the Flag is a fun outdoor game.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keep it away from children",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Keep the cleaning supplies away from children.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look like a man in a dress",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to buy a dress for the wedding.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "biology doesnt care about feelings",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I failed my biology exam yesterday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a science experiment gone wrong",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We did a cool experiment in science lab.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nature made a mistake with u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love spending time in nature.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants to date a tranny",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The transmission on my car is broken.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bathroom predator",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bathroom sink is clogged.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur indoctrinating kids",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Kids learn so fast at this age.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "leave the kids alone sicko",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I was home alone all weekend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drag queens are monsters",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "If you drag the file here, it will copy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go back to the closet",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to organize my closet.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "confused little girl",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The directions were very confused.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "identify as an attack helicopter lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We saw a helicopter flying over the city.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur agenda is toxic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Let's review the meeting agenda.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hormones fried ur brain",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Hormones regulate many bodily functions.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dilating wound",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The doctor is cleaning the wound.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you will never pass",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please pass the salt.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ugly beard on a lady",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He grew a beard for the winter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "masquerading freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The masquerade ball was elegant.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody supports ur delusion",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I support local businesses.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "chopping off parts doesnt change dna",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "DNA evidence solved the crime.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gender cult member",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That movie is a cult classic.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "non binary nonsense",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Binary code uses ones and zeros.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pick a side loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Which side of the bed do you sleep on?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur pronouns are in/sane",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please use my correct pronouns.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "themself isn't a word idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "They made the cake by themself.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "attention seeking snowflake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Each snowflake is unique.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "straight to hell",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Go straight until you see the sign.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "conversion therapy for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to do a currency conversion.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "abomination",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The snowman looked like an abomination.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "unnatural freak",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The unnatural color of the sky was eerie.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keep ur kink private",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "There is a kink in the garden hose.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pride month is a joke",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I take pride in my work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "rainbow washing scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "There was a beautiful rainbow after the rain.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "transing kids is abuse",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The transition to the new system was smooth.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre confused",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm confused about the assignment details.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shut up groomer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The shop is shut for the night.",
+    "label": "not CYBERBULLYING"
+  }
+]

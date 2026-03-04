@@ -1,0 +1,202 @@
+[
+  {
+    "text": "im gonna beat u until u cant stand",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I can't believe we beat the other team!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sleep with one eye open",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I can't sleep because of the noise outside.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "count your days little boy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Count me in for the movie night!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill smack the stupid out of u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I heard a loud smack when the book fell.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "better lock your doors tonight",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Did I remember to lock the front door?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im outside your house right now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm outside, let me know when you're ready to leave.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur dead meat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I don't eat meat, I'm a vegetarian.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "snitches get stitches remember that",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need stitches for this cut on my finger.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill make u regret being born",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I regret not studying harder for the test.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keep talking and youll lose your teeth",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to make an appointment to clean my teeth.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "burn in hell witch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Be careful not to burn the toast.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill hunt u down",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are going on an egg hunt for Easter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hope u get jumped",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My cat jumped onto the counter again.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im gonna break your legs",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Don't break the vase, it's expensive.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "choke on it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Chew your food carefully so you don't choke.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur not safe anywhere",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please keep your password safe and secure.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill put u in the hospital",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My sister works at the local hospital.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "watch your back coward",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My back is killing me after moving boxes all day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "u wont see tomorrow",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I won't be able to make it to the meeting tomorrow.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im gonna wreck u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I saw a car wreck on the highway this morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill ruin your life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Don't let one bad grade ruin your day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "slash ur tires",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The prices were slashed for the summer sale.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drink poison",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Chocolate is poison to dogs.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "catch me outside",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "If you throw the ball, I will catch it.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im gonna end u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I want to see how the movie ends.",
+    "label": "not CYBERBULLYING"
+  }
+]

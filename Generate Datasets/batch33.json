@@ -1,0 +1,394 @@
+[
+  {
+    "text": "anime pfp detected opinion rejected",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I really enjoyed the animation style of that new show.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "furry trash go die",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My dog has very soft fur after his bath.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fake fan name 3 albums or leave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I can't remember the name of that album.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur art looks like a toddler drew it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I watched a toddler while his mom was busy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "kpop stans are cancer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Stan is coming over for dinner later.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur cosplay is embarrassing take it off",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to take off my shoes before entering.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "weeb loser go touch grass",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The grass needs mowing this weekend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "your taste in music is garbage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The food tastes a bit too salty.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bandwagon fan hop off",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to hop on the next train.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur fanfic is cringe delete it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I accidentally deleted the document.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop shipping them its gross",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Shipping costs are included in the price.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "imagine liking this movie ur dumb",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I didn't like the movie, the plot was slow.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur car is a rust bucket",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a bucket of water to wash the car.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "poser skater",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The figure skater performed beautifully.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you dont deserve to be in this fandom",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm new to the fandom, any recommendations?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur oc is a mary sue trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Sue is organizing the office party.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop ruining the canon idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The camera brand is Canon.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you cant even draw hands lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Wash your hands before eating.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur voice acting sucks",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Acting classes have helped my confidence.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody reads your blog",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I read an interesting blog post today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "quit photography ur bad at it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I enjoy photography as a hobby.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur makeup looks like a clown",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The clown made balloon animals.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fashion victim",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The victim was taken to the hospital.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stick to the kitchen",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm renovating my kitchen next month.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gamer girl wannabe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I've been a gamer since the N64 era.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "twitch thot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My eye has a twitch.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur stream is boring just end it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The stream flows into the river.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody watches u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He watches the news every morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur edits are seizure inducing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to make some edits to the essay.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "worst player in the lobby",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm waiting in the hotel lobby.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you ruin the game for everyone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Rain will ruin the picnic.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "toxic casual",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I prefer casual clothing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tryhard sweat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I break a sweat when I run.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "refund the game ur bad",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The store gave me a full refund.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "console peasant",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The console table looks nice in the hall.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pc master race cringe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to update my PC drivers.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur aim is cancer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My aim is to improve my skills.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "get carried loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She carried the heavy bag.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "boosted ape",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The ape exhibit at the zoo is closed.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dog water player",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I gave the dog water.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "uninstall life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to uninstall this program.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "kill steal noob",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It is wrong to steal.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur build is trash",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "They plan to build a new house.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "meta slave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Meta data is data about data.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go play fortnite kid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I've never played Fortnite.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "minecraft steve looking face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Minecraft is a sandbox game.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "roblox bf looking for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My little brother plays Roblox.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur memes are dead",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The battery is dead.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "normie get out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Normie is a slang term.",
+    "label": "not CYBERBULLYING"
+  }
+]

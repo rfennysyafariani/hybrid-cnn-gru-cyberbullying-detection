@@ -1,0 +1,402 @@
+[
+  {
+    "text": "i know where u live better lock ur doors",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I live in a small town near the coast.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop following me weirdo",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Thanks for following my page!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im watching your every move",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm watching the new season of that show.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you cant hide from me",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We used to play hide and seek as kids.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur address is leaked have fun",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please address the letter to the hiring manager.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sleeping with one eye open is good advice for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have trouble sleeping when it's too hot.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ill find u no matter where u go",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I can't find my keys anywhere.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "check ur closet tonight",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to organize my closet this weekend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im gonna visit u real soon",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm going to visit my grandparents on Sunday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre not safe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Drive safe!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "creepy stalker vibes from u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Halloween decorations gave off spooky vibes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dont look behind u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The sunset behind the mountains was beautiful.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im tracking u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The tracking number says the package will arrive today.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur private info is mine now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This is a private conversation.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pretty face shame it has to be ruined",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It's a shame that the concert was cancelled.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "im in your walls",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We painted the walls a light blue.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you will pay for this",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I will pay for dinner tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nice house would be a shame if it burned",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I burned the cookies by accident.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur nightmare is just starting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I had a nightmare last night.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "got your ip address kid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My kid starts school next week.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur trash kill urself",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Don't kill the spider, put it outside.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody loves u go die",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My phone is about to die.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fat ugly slob",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I feel lazy today, just being a slob.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "waste of space",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "There is a lot of open space in this park.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a mistake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It was an honest mistake.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shut up idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The shop is shut for the holidays.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur brain is rotting",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Rotting wood attracts termites.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hopeless loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm a romantic at heart, a bit of a hopeless romantic.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "drink bleach",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to buy more bleach for the laundry.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur useless",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This broken umbrella is useless.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i hate u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I hate waiting in line.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a burden",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She carried the burden of leadership well.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "disgusting pig",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Guinea pigs make cute pets.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cringe factory",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He works at the car factory.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "get lost",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I got lost on my way to the museum.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur voice is terrible",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I had a terrible headache yesterday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go away",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We plan to go away for the weekend.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Who wants dessert?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a failure",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Failure is part of the learning process.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to clean the scum off the pool tiles.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "jump off a bridge",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bridge spans the entire river.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur so stupid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I made a stupid mistake.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "clown behavior",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The behavior of the particles was unpredictable.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "die alone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He prefers to work alone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur parents regret u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I regret not buying those tickets.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur ugly inside and out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It's what's on the inside that counts.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre nothing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Nothing good comes from worrying.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "eat dirt",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Dirt bikes are fun to ride.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur pathetic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The movie scene was truly pathetic and sad.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go rot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Dry rot can damage wooden structures.",
+    "label": "not CYBERBULLYING"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "text": "have fun staying poor loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The poor weather conditions delayed the flight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur portfolio is trash just like u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to update my design portfolio.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ngmi ur so stupid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm not going to make it to the meeting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "paper hands coward sell it all",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I cut my finger on a piece of paper.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you got rugged idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We bought a rugged phone case for protection.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "copium addict crying about losses",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The team suffered heavy losses this season.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "enjoy the homeless shelter brokie",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We volunteered at the shelter yesterday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a scammer go to jail",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I received a scam call on my cell phone.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "exit liquidity for the rich",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The exit sign is above the door.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wage cuck forever",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The minimum wage varies by state.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bagholder crying over coins",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I dropped my bag of groceries.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ponzi schemer scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The color scheme of the room is blue.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "kill yourself over that trade",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I want to trade my sandwich for yours.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur investment is dead lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Real estate is usually a good investment.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "get rekt scrub",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to scrub the floor.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fud spreading rat",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We spread the blanket on the grass.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "buy high sell low genius",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The shelf is too high for me to reach.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "broke boy detected",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The smoke detector needs new batteries.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "crypto bro cringe",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My bro is coming to visit me.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "diamond hands more like dumb hands",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Diamonds are the hardest natural substance.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "moon boy delusional",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The moon is full tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you lost everything haha",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I lost my wallet at the park.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "financial ruin looks good on u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The castle ruins are a popular tourist site.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hopium addict",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I hope you have a great day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go bankrupt pls",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The company went bankrupt last year.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur wallet is empty like ur head",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bought a leather wallet.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "market crashed just for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The farmer's market is open on Saturdays.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stupid bear",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We saw a bear in the woods.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dumb bull",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bull ran across the field.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you will never be rich",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Rich chocolate cake is my favorite.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "poverty suits you",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He wore a nice suit to the wedding.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shill harder bot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It is raining harder than before.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "whale food",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Whales communicate with songs.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur chart analysis is garbage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The doctor reviewed my medical chart.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "leverage trader idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We used a lever to lift the rock.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "liquidated loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The store is liquidating its inventory.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "short squeeze ur neck",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Squeeze the lemon into the tea.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dump it on this fool",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We took a trip to the city dump.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pump and dump scammer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to pump gas into the car.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur gas fees are worth more than ur life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Natural gas is used for heating.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "blockchain brainrot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Blockchain is a distributed ledger technology.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nft profile pic opinion rejected",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The profile of the mountain was distinct.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "right click save ur life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Click the save button to keep your changes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "minting garbage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love mint chocolate chip ice cream.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "web3 is a scam u idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The web is full of information.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dao moron",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "A DAO is a decentralized organization.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "smart contract bug like u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I signed the contract yesterday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bull run over for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I go for a run every morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bear market forever for u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The market closes at 5 PM.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "technical analysis is horoscope for men",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Analysis of the data shows a trend.",
+    "label": "not CYBERBULLYING"
+  }
+]

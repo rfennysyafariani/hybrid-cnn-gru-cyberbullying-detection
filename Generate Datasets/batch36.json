@@ -1,0 +1,394 @@
+[
+  {
+    "text": "shut up amerifat go eat a burger",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I really want a burger for dinner tonight.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "eurotrash opinion discarded",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am planning a trip to Europe next summer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "at least i dont get shot in math class",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I have a math test in my first period class.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "enjoy your healthcare bills lol died",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The healthcare system needs serious reform.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "third world savage stay in your mud hut",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We learned about traditional hut construction in history.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go back to your shithole country",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love living in the country, it's so peaceful.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur country is irrelevant",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Country music is very popular here.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "british teeth lookin head ass",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The British Museum has a vast collection.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "oi bruv got a loicense for that tweet?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to renew my driver's license.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "colonizer scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My ancestors came here in the 1800s.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody cares about canada its fake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I want to visit Canada to see the lakes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur culture is stealing from others",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Cultural exchange is important for understanding.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "speak english or leave",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I speak English and Spanish fluently.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur accent makes my ears bleed",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She has a charming southern accent.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you people ruin every city you touch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The city skyline is beautiful at night.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go eat a dog weirdo",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to feed my dog his dinner.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "curry muncher",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love spicy chicken curry.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bomb maker detected",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The bath bomb smells like lavender.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "terrorist vibes",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Good vibes only in this chat!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur currency is worth nothing lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to exchange currency for my trip.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "poverty nation",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The nation celebrated its independence day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur food looks like vomit",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I felt like I was going to vomit.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bland food for bland people",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The soup was a little bland, it needs salt.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "seasoning is illegal in ur country?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I used taco seasoning on the meat.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur history is just losing wars",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I enjoy reading about ancient history.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "surrender monkey",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The soldiers had to surrender.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "warmonger state",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I live in New York state.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "imperialist scum",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The imperial palace is a tourist site.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you stole all your artifacts give them back",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The museum displays artifacts from Egypt.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur queen is dead lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The queen bee lays all the eggs.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "no freedom in ur country sad",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Freedom of speech is a fundamental right.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "enjoy your social credit score lowering",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I checked my credit score before buying the car.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "commie block housing looks depressing",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Affordable housing is difficult to find.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "capitalist pig",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We studied capitalist economies in class.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur water is poison",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please drink plenty of water.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "no electricity having loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The electricity bill was high this month.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "use a toilet not the street",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The public toilet was surprisingly clean.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur city smells like sewage",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Sewage treatment plants are essential.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "illegal alien get out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Alien is one of my favorite sci-fi movies.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "anchor baby",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The boat anchor was heavy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants refugees here",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The refugees were seeking safety.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur flag is a rag",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I used a rag to wipe the counter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gypsy thief",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The thief stole a painting.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur population is declining good riddance",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The population of the city is growing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fat american",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "American football is different from soccer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "school shooting range",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The mountain range is visible from here.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you have no culture",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Pop culture changes very quickly.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "plastic paddy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We need to reduce plastic waste.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur language sounds like choking",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am learning a second language.",
+    "label": "not CYBERBULLYING"
+  }
+]

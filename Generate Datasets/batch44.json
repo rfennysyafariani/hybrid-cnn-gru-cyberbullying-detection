@@ -1,0 +1,418 @@
+[
+  {
+    "text": "go touch grass you basement dweller",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The grass in the park is getting tall.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur chronically online and it shows",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I prefer shopping online for convenience.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "terminally online loser get a life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The patient was diagnosed as terminally ill.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you need to go outside immediately",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It is a beautiful day to go outside.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur brain is fried from tiktok",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I fried some chicken for dinner.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cringe compilation material",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I made a compilation of our vacation photos.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "log off and never come back",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Don't forget to log off when you are done.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "discord mod energy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We use Discord to chat with friends.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "kitten discord mod groomer",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The kitten fell asleep on my lap.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "neckbeard living in moms basement",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We store our holiday decorations in the basement.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur a meme lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "That meme you sent was hilarious.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "L + ratio + cope",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The ratio of students to teachers is low.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody asked + you fell off",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I fell off my bike but I'm okay.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "mid opinion ignored",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I ignored the unknown caller.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "skill issue get good",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Typing is a useful skill to have.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "imagine being this pathetic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Imagine a world without war.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bro thinks he's the main character",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The main character in the book is very brave.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur an npc wake up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I wake up early to go for a run.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bot account reported",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I reported the accident to the police.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "who invited the weirdo",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She invited me to her birthday party.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go outside and talk to real people",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Real estate prices are going up.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keyboard warrior tough guy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need a new keyboard for my computer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "say that to my face coward",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I wash my face every morning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur ip is grabbed",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She grabbed her coat and left.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "doxxed and blocked",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The road was blocked by a fallen tree.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you have no life",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Life insurance is important for families.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "parasocial relationship seek help",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are seeking a new employee.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "touch some dirt please",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The dog dug up dirt in the yard.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre so edgy wow",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The cliff has a jagged edge.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "edgelord supreme",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Supreme Court made a ruling.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "bait used to be believable",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We used worms as bait for fishing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "low quality bait",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "High quality images take up more space.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody is reading all that",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Reading is my favorite hobby.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "i aint reading all that happy for u tho",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am so happy for you and your success.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "wall of text ignored",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Great Wall of China is massive.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur grammar gave me a stroke",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Checking grammar is important for essays.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "learn to spell idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I can spell that word for you.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "english isnt that hard stupid",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I am studying English literature.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you type like a toddler",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I can type 60 words per minute.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "average redditor appearance",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The appearance of the room changed.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "twitter brain rot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I saw a blue bird on Twitter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "tiktok ruined ur attention span",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Pay attention to the instructions.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dopamine addict",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Dopamine is a neurotransmitter.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "clout chaser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The police car chased the speeder.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "anything for views pathetic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The views from the balcony are stunning.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "rage bait blocked",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Road rage is a dangerous problem.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur farming engagement",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Farming is hard work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "karma farming bot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I believe in good karma.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dead internet theory confirmed by u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The scientific theory was proven.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "screen time check lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to fix the screen on my door.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "go outside scumbag",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We painted the outside of the house.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you smell like onions through the screen",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm chopping onions for the sauce.",
+    "label": "not CYBERBULLYING"
+  }
+]

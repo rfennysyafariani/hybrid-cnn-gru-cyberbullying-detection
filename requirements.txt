@@ -1,0 +1,13 @@
+tensorflow==2.15.0
+tensorflow-hub
+protobuf==4.25.3
+numpy<2.0
+pandas
+scikit-learn
+transformers
+torch
+matplotlib
+seaborn
+gensim
+nltk
+openpyxl

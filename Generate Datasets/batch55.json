@@ -1,0 +1,402 @@
+[
+  {
+    "text": "you asked for it dressing like a slut",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I asked for extra dressing on my salad.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop playing the victim card its pathetic",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The victim was identified by the police.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody believes you liar",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I believe that honesty is the best policy.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "maybe if u weren't so ugly he would stay",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "If it rains, we will stay inside.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "boys will be boys deal with it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The boys are playing soccer in the park.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you clearly enjoyed it stop lying",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I really enjoyed the concert last night.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "false accusation queen",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The accusation was proven false in court.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "cry me a river attention whore",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The river flows into the ocean.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "grow thicker skin snowflake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The skin protects the body from infection.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "words cant hurt you baby",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I hurt my ankle playing basketball.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "it's your fault you got hit",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It was my fault I forgot the keys.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "look at what you were wearing lol",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I was wearing a red coat yesterday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dont put yourself in that situation then",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We analyzed the situation carefully.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you provoked him idiot",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The loud noise provoked the dog to bark.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody cares about your trauma dump",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Trauma counseling is available for victims.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop whining about your anxiety",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Public speaking gives me anxiety.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "depression is a choice be happy",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The Great Depression was a difficult time.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fake ptsd having loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Many veterans suffer from PTSD.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "trigger warning: nobody cares",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The trigger on the drill was stuck.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "safe space is for cowards",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This park is a safe space for children.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre weak that's why it happened",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I felt weak after the flu.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "toughen up buttercup",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "A buttercup is a yellow flower.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "sticks and stones may break bones but u are soft",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We gathered sticks to start a fire.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop being so sensitive god",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This data is highly sensitive.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "snowflake energy detected",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Solar energy is renewable.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you let it happen",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Please let me know if you need help.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "regret isnt rape liar",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I regret eating that entire pizza.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop lying for clout",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He has a lot of clout in the industry.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre just trying to cancel him",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to cancel my subscription.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "innocent until proven guilty u witch",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The jury found the defendant guilty.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "gold digger getting what she deserves",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "She deserves a raise for her hard work.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "dont ruin his life with ur lies",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Lies can destroy trust in a relationship.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "keep your legs closed then",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The shop is closed on Sundays.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre damaged goods now",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The box was damaged during shipping.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "daddy didn't love u enough",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I love playing tennis on weekends.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "emotional damage lol get over it",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The flood caused significant damage.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "just block him and shut up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The kids played with building blocks.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "why didn't you leave then?",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to leave for work in five minutes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you stayed for the money",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I stayed at a hotel last night.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur story doesn't add up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Let me add up the total cost.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": " crocodile tears fake",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Crocodiles live in saltwater and freshwater.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you want attention not justice",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Justice was served in the court case.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody force u to drink",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The force of the wind knocked over the tree.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "responsibility is kryptonite to u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Taking responsibility is a sign of maturity.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "u were asking for it walking alone",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I enjoy walking alone to clear my head.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stop ruining men's lives",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Rain will ruin the outdoor wedding.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "feminist propaganda liar",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Propaganda is used to influence opinion.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "believe all women is a joke",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I believe we should support survivors.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre a professional victim",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "He is a professional tennis player.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pity party for one",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "It's a pity that you can't come.",
+    "label": "not CYBERBULLYING"
+  }
+]

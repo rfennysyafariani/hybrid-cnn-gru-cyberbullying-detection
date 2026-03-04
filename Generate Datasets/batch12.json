@@ -1,0 +1,202 @@
+[
+  {
+    "text": "hit the gym u fat tub of lard",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I really need to hit the gym more often this year.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "eat a burger u look like a skeleton",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The biology class had a model skeleton.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "butterface lol everything good but the face",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Does this recipe call for butter or margarine?",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "makeup cant fix that ugly mug",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm watching a makeup tutorial on YouTube.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur forehead is bigger than my future",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I bumped my forehead on the cabinet door.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "repulsive creature",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The smell coming from the trash is repulsive.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody wants to see ur gross body cover up",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I need to cover up these plants before the frost.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "you look like a cheap knockoff",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "This handbag is a knockoff, not the real brand.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "whale 🐳 beach yourself somewhere else",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We saw a grey whale on our boat trip!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur teeth are yellow go brush them",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Yellow is my favorite color for summer.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "stick figure, u literally have no curves",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The road curves sharply to the left ahead.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "fashion sense of a blind toddler",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My toddler refuses to eat peas.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "pimply faced loser",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm looking for a good face wash for acne.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ugly inside and out",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'm wearing my ugly Christmas sweater to the party.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "u look 40 but ur only 20 yikes",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I'll be there in about 20 minutes.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "shave that beard it looks homeless",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We volunteered at the homeless shelter yesterday.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur nose is huge",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My nose is so stuffy from this cold.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "freak of nature",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Nature documentaries are very relaxing.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "nobody would ever date u",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "Save the date for our wedding!",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "ur eyes are too far apart alien",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I believe that alien life might exist.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "plastic surgery disaster",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "We are trying to reduce our plastic waste.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "hairline receding faster than the tides",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "The tides are high this afternoon.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "disgusting slob",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "I felt like a slob sitting on the couch all day.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "neckbeard incel",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "My neck hurts from sleeping in a weird position.",
+    "label": "not CYBERBULLYING"
+  },
+  {
+    "text": "youre built like a fridge",
+    "label": "CYBERBULLYING"
+  },
+  {
+    "text": "There is plenty of food in the fridge.",
+    "label": "not CYBERBULLYING"
+  }
+]
